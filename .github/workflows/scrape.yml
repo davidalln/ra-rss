@@ -2,14 +2,13 @@ name: Scrape RA Reviews
 
 on:
   schedule:
-    # Runs every 10 minutes
-    # Note: GitHub Actions schedules have ~1 min jitter and won't run more
-    # frequently than every 5 minutes. 10 min is a safe, polite interval.
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # allows manual trigger from the Actions tab
+    - cron: '0 8,20 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [scrape]
 
 permissions:
-  contents: write  # needed to commit state + XML back to the repo
+  contents: write
 
 jobs:
   scrape:
@@ -19,7 +18,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          # Fetch the full history so we can commit back cleanly
           fetch-depth: 1
 
       - name: Set up Node.js
@@ -39,6 +37,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ra-album-reviews.xml ra-state.json
-          # Only commit if something actually changed
           git diff --cached --quiet || git commit -m "chore: update RA reviews feed [skip ci]"
           git push
