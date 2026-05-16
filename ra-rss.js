@@ -185,7 +185,7 @@ function buildXml(reviews) {
     <description>Latest album, EP and single reviews from Resident Advisor</description>
     <language>en</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
-    <ttl>${Math.round(INTERVAL_MS / 60000)}</ttl>
+    <ttl>10</ttl>
     <atom:link href="https://ra.co/reviews" rel="self" type="application/rss+xml"/>
     ${items}
   </channel>
