@@ -1,0 +1,4 @@
+GitHub Actions cron (every 10 min)
+  → runs ra-rss.js
+  → commits ra-album-reviews.xml to the repo
+  → GitHub Pages serves it at yourusername.github.io/repo/ra-album-reviews.xml
