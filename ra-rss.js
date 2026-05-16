@@ -152,7 +152,7 @@ function esc(s) {
 function buildXml(reviews) {
   const items = reviews.map(r => {
     const title = r.artist
-      ? `${esc(r.artist)} - ${esc(r.release)} [${r.type}]`
+      ? `${esc(r.artist)} – ${esc(r.release)} [${r.type}]`
       : esc(r.release);
 
     const descParts = [

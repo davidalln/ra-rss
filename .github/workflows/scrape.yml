@@ -1,4 +1,4 @@
-name: Scrape RA Reviews
+name: Scrape Reviews
 
 on:
   schedule:
@@ -29,13 +29,16 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run scraper
+      - name: Run RA scraper
         run: node ra-rss.js
 
-      - name: Commit updated feed and state
+      - name: Run Pitchfork scraper
+        run: node pitchfork-rss.js
+
+      - name: Commit updated feeds and state
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ra-album-reviews.xml ra-state.json
-          git diff --cached --quiet || git commit -m "chore: update RA reviews feed [skip ci]"
+          git add ra-album-reviews.xml ra-state.json pitchfork-album-reviews.xml
+          git diff --cached --quiet || git commit -m "chore: update review feeds [skip ci]"
           git push
