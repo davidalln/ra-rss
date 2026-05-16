@@ -1,0 +1,12 @@
+{
+  "name": "ra-reviews-rss",
+  "version": "1.0.0",
+  "description": "Scrapes Resident Advisor reviews and generates an RSS feed",
+  "main": "ra-rss.js",
+  "scripts": {
+    "start": "node ra-rss.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
