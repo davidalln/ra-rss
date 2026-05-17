@@ -5,10 +5,19 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews, reformatted as Artist - Album</description>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 23:50:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 09:49:17 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>MTV Unplugged</title>
+    <link>https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/</link>
+    <guid isPermaLink="true">6a076927c9aadf2bf97130ac</guid>
+    <pubDate>Sun, 17 May 2026 04:00:00 +0000</pubDate>
+    <description><![CDATA[<strong>MTV Unplugged</strong>
+<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the alt-rock band’s 1993 acoustic set, a swan song for the sensitive bohemians—and the biggest hit they’d ever release.…</p>
+<p><a href="https://pitchfork.com/reviews/albums/10000-maniacs-mtv-unplugged/">Read full review on Pitchfork →</a></p>]]></description>
+  </item>
   <item>
     <title>Happy Today</title>
     <link>https://pitchfork.com/reviews/albums/jeff-parker-and-eva-ivtet-happy-today/</link>
@@ -269,15 +278,6 @@
     <description><![CDATA[<strong>Peaches!</strong>
 <p>After a quarter-century as a band, the blues-rock duo offers its second set of covers in just five years. It is weirdly free of feeling.…</p>
 <p><a href="https://pitchfork.com/reviews/albums/the-black-keys-peaches/">Read full review on Pitchfork →</a></p>]]></description>
-  </item>
-  <item>
-    <title>Cost of Living Adjustment</title>
-    <link>https://pitchfork.com/reviews/albums/cola-cost-of-living-adjustment/</link>
-    <guid isPermaLink="true">69fb91b83a71f44e17d938e0</guid>
-    <pubDate>Thu, 07 May 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[<strong>Cost of Living Adjustment</strong>
-<p>The third album from the Montreal trio breaks free with restless energy and earnest, worldweary songwriting.…</p>
-<p><a href="https://pitchfork.com/reviews/albums/cola-cost-of-living-adjustment/">Read full review on Pitchfork →</a></p>]]></description>
   </item>
   </channel>
 </rss>
