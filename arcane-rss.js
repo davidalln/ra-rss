@@ -61,48 +61,48 @@ function stripHtml(s) {
 // ─── Parsing ──────────────────────────────────────────────────────────────────
 
 /**
- * Parse the event listing page for a given date (YYYYMMDD).
- * Returns array of { title, url, imageUrl, venue, time, price, tags }.
+ * Parse the event listing page for a given date.
+ * The fetched content is markdown-converted HTML.
+ * Event blocks look like:
+ *   ### [Title](https://arcane.city/events/slug)
+ *   @ [Venue](...)
+ *   Time  Price  Age
+ *   Tags...
  */
 function parseListingPage(html, targetDateStr) {
   const events = [];
 
-  // Each event card starts with an <li> that contains an <img> and an <h3> with a link
-  // We split on the event link pattern and reconstruct cards
-  const cardPattern = /<li[^>]*>([\s\S]*?)<\/li>/gi;
+  // Match event entries: ### [Title](url) where url is an arcane.city/events/ link
+  const eventPattern = /### \[([^\]]+)\]\((https:\/\/arcane\.city\/events\/[^)]+)\)/g;
   let m;
-  while ((m = cardPattern.exec(html)) !== null) {
-    const card = m[1];
+  while ((m = eventPattern.exec(html)) !== null) {
+    const title = m[1].trim();
+    const url   = m[2].trim();
 
-    // Must contain an h3 with an event link
-    const titleMatch = card.match(/<h3[^>]*>\s*<a[^>]+href="(https:\/\/arcane\.city\/events\/[^"]+)"[^>]*>([^<]+)<\/a>/);
-    if (!titleMatch) continue;
+    // Grab the ~400 chars after the title line for context
+    const snippet = html.slice(m.index, m.index + 600);
 
-    const url   = titleMatch[1];
-    const title = titleMatch[2].trim();
-
-    // Flyer image (first img in card)
-    const imgMatch = card.match(/src="(https:\/\/arcane-city-library[^"]+(?<!tn-)[^"]*\.(?:webp|jpg|jpeg|png))"/);
-    // Prefer non-thumbnail (no "tn-" prefix)
-    const imgUrl = imgMatch ? imgMatch[1] : '';
-
-    // Venue
-    const venueMatch = card.match(/@ <a[^>]+>([^<]+)<\/a>/);
+    // Venue: "@ [Venue Name](...)" or "@ Venue Name"
+    const venueMatch = snippet.match(/@ \[([^\]]+)\]/);
     const venue = venueMatch ? venueMatch[1].trim() : '';
 
-    // Time
-    const timeMatch = card.match(/(\d{1,2}:\d{2} (?:AM|PM))/);
-    const time = timeMatch ? timeMatch[1] : '';
+    // Time: e.g. "7:00 PM" or "10:00 PM - 2:00 AM"
+    const timeMatch = snippet.match(/(\d{1,2}:\d{2} (?:AM|PM)(?:\s*-\s*\d{1,2}:\d{2} (?:AM|PM))?)/);
+    const time = timeMatch ? timeMatch[1].trim() : '';
 
-    // Price
-    const priceMatch = card.match(/(\d+\.\d{2})/);
-    const price = priceMatch ? `$${priceMatch[1]}` : '';
+    // Price: "Door: $12" or "Presale: $10 Door: $15" or just "$15.00"
+    const priceMatch = snippet.match(/(?:Door|Presale):\s*\$[\d.]+(?:\s+Door:\s*\$[\d.]+)?|\$(\d+\.\d{2})/);
+    const price = priceMatch ? priceMatch[0].trim() : '';
 
-    // Tags
-    const tagMatches = [...card.matchAll(/\/events\/tag\/[^"]+">([^<]+)<\/a>/g)];
-    const tags = tagMatches.map(t => t[1].trim());
+    // Image: grab from tn- thumbnail or full image URL in the snippet
+    const imgMatch = snippet.match(/https:\/\/arcane-city-library[^\s)"\]]+\.(?:webp|jpg|jpeg|png)/);
+    const imageUrl = imgMatch ? imgMatch[0].replace(/\/tn-/, '/') : '';
 
-    events.push({ title, url, imageUrl: imgUrl, venue, time, price, tags });
+    // Tags: lines like "[TagName](https://arcane.city/events/tag/...)"
+    const tagMatches = [...snippet.matchAll(/\[([^\]]+)\]\(https:\/\/arcane\.city\/events\/tag\/[^)]+\)/g)];
+    const tags = [...new Set(tagMatches.map(t => t[1].trim()))];
+
+    events.push({ title, url, imageUrl, venue, time, price, tags });
   }
 
   return events;
@@ -123,16 +123,17 @@ async function scrapeEventPage(url) {
     const ogImgMatch = html.match(/meta-og:image: ([^\n]+)/);
     const imageUrl = ogImgMatch ? ogImgMatch[1].trim() : '';
 
-    // Body description paragraphs (between the h1 and the concert/entity info)
-    const bodyMatch = html.match(/# [^\n]+\n[\s\S]*?\n\n([\s\S]+?)\n\[Concert|by \[/);
-    const bodyText = bodyMatch ? stripHtml(bodyMatch[1]).replace(/\n+/g,' ').trim() : description;
+    // Body description: paragraph(s) between the h1 and "Concert by" line
+    // Format: "# Title\n\n[Return...]\n\nDescription text\n\n[![img]...]\n\nBody text"
+    const bodyMatch = html.match(/\[Return to list\][^\n]*\n[\s\S]*?\n\n([\s\S]+?)\n\n\[!\[/);
+    const extendedBody = bodyMatch ? bodyMatch[1].trim() : '';
 
-    // Date/time line
-    const dateLineMatch = html.match(/((?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)[^•\n]+)/);
+    // Date/time line: "Sunday, May 17th 2026 • Doors 8:00 PM • Show 9:00 PM"
+    const dateLineMatch = html.match(/((?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)[^\n•]+(?:•[^\n]+)*)/);
     const dateLine = dateLineMatch ? dateLineMatch[1].trim() : '';
 
-    // Venue from "@ Venue" pattern
-    const venueMatch = html.match(/@ \[([^\]]+)\]/);
+    // Venue from "Concert by [Venue]" or "by [Venue]"
+    const venueMatch = html.match(/by \[([^\]]+)\]\(https:\/\/arcane\.city\/entities\/[^)]+\)/);
     const venue = venueMatch ? venueMatch[1] : '';
 
     // Age restriction
@@ -144,10 +145,18 @@ async function scrapeEventPage(url) {
     const ticketUrl = ticketMatch ? ticketMatch[1] : '';
 
     // Tags
-    const tagMatches = [...html.matchAll(/\/events\/tag\/[^"]+">([^<]+)<\/a>/g)];
+    const tagMatches = [...html.matchAll(/\[([^\]]+)\]\(https:\/\/arcane\.city\/events\/tag\/[^)]+\)/g)];
     const tags = [...new Set(tagMatches.map(t => t[1].trim()))];
 
-    return { description: bodyText || description, imageUrl, dateLine, venue, ageInfo, ticketUrl, tags };
+    return {
+      description: extendedBody || description,
+      imageUrl,
+      dateLine,
+      venue,
+      ageInfo,
+      ticketUrl,
+      tags
+    };
   } catch (err) {
     console.warn(`  ⚠ Could not scrape ${url}: ${err.message}`);
     return {};
@@ -250,7 +259,8 @@ async function main() {
   const target   = new Date(now);
   target.setDate(target.getDate() + 7);
   const targetStr = ymd(target);         // e.g. "20260524"
-  const targetUrl = `${BASE_URL}/events/upcoming/${targetStr}`;
+  // Correct URL format: /events/by-date/YYYY/MM/DD
+  const targetUrl = `${BASE_URL}/events/by-date/${target.getFullYear()}/${pad(target.getMonth() + 1)}/${pad(target.getDate())}`;
 
   console.log(`🗓  Scraping events for ${targetStr} (one week from today)`);
   console.log(`    URL: ${targetUrl}`);
