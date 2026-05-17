@@ -1,16 +1,11 @@
 #!/usr/bin/env node
 
 /**
- * RA Album Reviews RSS Generator
+ * RA Album & Single Reviews RSS Generator
  *
- * RA's listing page is JS-rendered so plain HTTP scraping gets nothing.
- * Instead this script:
- *   1. Reads the latest known review ID from a state file (or starts from
- *      a hardcoded baseline).
- *   2. Probes upward from that ID to find any new reviews published since
- *      the last run.
- *   3. Parses each review page's <meta> tags (which ARE server-rendered).
- *   4. Writes ra-album-reviews.xml and repeats on INTERVAL_MINUTES.
+ * Probes RA review IDs sequentially. After following redirects, the final
+ * URL reveals whether a review is an album (/reviews/albums/...) or
+ * single (/reviews/singles/...), so we tag each item accordingly.
  *
  * Usage:
  *   npm install node-fetch
@@ -79,7 +74,8 @@ async function fetchPage(id) {
     timeout: 15000,
   });
   if (!res.ok) return null;
-  return res.text();
+  // res.url is the final URL after redirects
+  return { html: await res.text(), finalUrl: res.url };
 }
 
 // ─── parsing ─────────────────────────────────────────────────────────────────
@@ -94,15 +90,14 @@ function getMeta(html, name) {
   return m ? (m[1] || m[2] || '').trim() : '';
 }
 
-function parseReview(html, id) {
-  const ogTitle = getMeta(html, 'og:title');
-  if (!ogTitle || !ogTitle.includes('Review')) return null;
+function parseReview(html, finalUrl, id) {
+  // Determine type from the final URL after redirect
+  const isAlbum  = /\/reviews\/albums\//i.test(finalUrl);
+  const isSingle = /\/reviews\/singles\//i.test(finalUrl);
+  if (!isAlbum && !isSingle) return null;
 
-  // Determine type
-  const isAlbum  = /album\s+review/i.test(ogTitle);
-  const isSingle = /single\s+review/i.test(ogTitle);
-  const isEP     = /\bep\s+review/i.test(ogTitle);
-  if (!isAlbum && !isSingle && !isEP) return null;
+  const ogTitle = getMeta(html, 'og:title');
+  if (!ogTitle) return null;
 
   // "Artist - Release · Album Review ⟋ RA"
   const titlePart = ogTitle.replace(/\s*·.*$/, '').trim();
@@ -117,7 +112,7 @@ function parseReview(html, id) {
 
   const description = getMeta(html, 'og:description') || getMeta(html, 'description') || '';
   const image       = getMeta(html, 'og:image') || '';
-  const url         = `https://ra.co/reviews/${id}`;
+  const url         = finalUrl;
 
   // Published date
   const dateMatch = html.match(/"datePublished"\s*:\s*"([^"]+)"/)
@@ -134,7 +129,7 @@ function parseReview(html, id) {
   const genreMatch = html.match(/\/reviews\/(?:albums|singles)\?genre=[^"'>]+[^>]*>([^<]+)<\/a>/);
   const genre = genreMatch ? genreMatch[1].trim() : '';
 
-  const type = isAlbum ? 'Album' : isEP ? 'EP' : 'Single';
+  const type = isAlbum ? 'Album' : 'Single';
 
   return { id, url, artist, release, type, description, image, label, genre, pubDate };
 }
@@ -153,14 +148,12 @@ function buildXml(reviews) {
   const items = reviews.map(r => {
     const title = r.artist
       ? `${esc(r.artist)} – ${esc(r.release)} [${r.type}]`
-      : esc(r.release);
+      : `${esc(r.release)} [${r.type}]`;
 
     const descParts = [
-      r.artist ? `<strong>${esc(r.artist)} — ${esc(r.release)}</strong>` : `<strong>${esc(r.release)}</strong>`,
       r.description ? `<p>${esc(r.description)}</p>` : '',
       r.label  ? `<p>Label: ${esc(r.label)}</p>`  : '',
       r.genre  ? `<p>Genre: ${esc(r.genre)}</p>`  : '',
-      `<p><a href="${esc(r.url)}">Read full review on Resident Advisor →</a></p>`,
     ].filter(Boolean).join('\n');
 
     return `
@@ -182,7 +175,7 @@ function buildXml(reviews) {
   <channel>
     <title>Resident Advisor — Reviews</title>
     <link>https://ra.co/reviews</link>
-    <description>Latest album, EP and single reviews from Resident Advisor</description>
+    <description>Latest album and single reviews from Resident Advisor</description>
     <language>en</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <ttl>10</ttl>
@@ -208,14 +201,14 @@ async function run() {
     while (collected < BACKFILL && misses < 20) {
       process.stdout.write(`  ID ${id} … `);
       try {
-        const html = await fetchPage(id);
-        if (html) {
-          const review = parseReview(html, id);
+        const result = await fetchPage(id);
+        if (result) {
+          const review = parseReview(result.html, result.finalUrl, id);
           if (review) {
             reviews.unshift(review);
             collected++;
             misses = 0;
-            process.stdout.write(`✓ ${review.artist} - ${review.release}\n`);
+            process.stdout.write(`✓ [${review.type}] ${review.artist} - ${review.release}\n`);
           } else {
             process.stdout.write('(not a review)\n');
             misses++;
@@ -243,14 +236,14 @@ async function run() {
     while (misses < 10) {
       process.stdout.write(`  ID ${id} … `);
       try {
-        const html = await fetchPage(id);
-        if (html) {
-          const review = parseReview(html, id);
+        const result = await fetchPage(id);
+        if (result) {
+          const review = parseReview(result.html, result.finalUrl, id);
           if (review) {
             newReviews.push(review);
             state.latestId = id;
             misses = 0;
-            process.stdout.write(`✓ ${review.artist} - ${review.release}\n`);
+            process.stdout.write(`✓ [${review.type}] ${review.artist} - ${review.release}\n`);
           } else {
             process.stdout.write('(not a review)\n');
             misses++;

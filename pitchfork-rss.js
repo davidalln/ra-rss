@@ -132,13 +132,10 @@ function buildXml(items) {
   const itemsXml = items.map(r => {
     const title = r.artist ? `${esc(r.artist)} – ${esc(r.album)}` : esc(r.album);
 
-    const descParts = [
-      r.artist
-        ? `<strong>${esc(r.artist)} — ${esc(r.album)}</strong>`
-        : `<strong>${esc(r.album)}</strong>`,
-      r.description ? `<p>${esc(r.description)}</p>` : '',
-      `<p><a href="${esc(r.link)}">Read full review on Pitchfork →</a></p>`,
-    ].filter(Boolean).join('\n');
+	const descParts = [
+		r.description ? `<p>${esc(r.description)}</p>` : '',
+		r.image ? `<img src="${r.image}" alt="${esc(r.album)} cover"/>` : '',
+	].filter(Boolean).join('\n');
 
     return `
   <item>
