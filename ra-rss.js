@@ -272,6 +272,8 @@ async function run() {
     }
   }
 
+  reviews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
   state.reviews = reviews.slice(0, 100);
   saveState(state);
 
