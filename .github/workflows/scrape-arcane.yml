@@ -1,0 +1,42 @@
+name: Scrape Arcane City Events
+
+on:
+  schedule:
+    # Runs twice daily at 08:00 and 20:00 UTC (same cadence as ra-rss reference workflow)
+    - cron: '0 8,20 * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [scrape]
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Arcane City scraper
+        run: node arcane-rss.js
+
+      - name: Commit updated feed and state
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add arcane-events.xml arcane-state.json
+          git diff --cached --quiet || git commit -m "chore: update arcane events feed [skip ci]"
+          git push

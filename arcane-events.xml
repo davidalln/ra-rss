@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arcane City – Pittsburgh Events</title>
+    <link>https://arcane.city</link>
+    <description>Upcoming Pittsburgh events from arcane.city — one week ahead alerts.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/arcane-events.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
