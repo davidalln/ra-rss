@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 21:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 09:56:31 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Ted Lucas – Images of Life</title>
+    <link>https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ted-lucas-images-of-life/</guid>
+    <pubDate>Sat, 23 May 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/69cc0d3b47880ea207bd6646/16:9/w_1280,c_limit/Ted-Lucas-Images-of-Life.jpeg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>In 1975, the Detroit singer self-released a perfect document of private-press folk. A rich new box set finally reveals more of his story in psychedelic sound.</p>
+<img src="https://media.pitchfork.com/photos/69cc0d3b47880ea207bd6646/16:9/w_1280,c_limit/Ted-Lucas-Images-of-Life.jpeg" alt="Images of Life cover"/>
+<img src="https://media.pitchfork.com/photos/69cc0d3b47880ea207bd6646/16:9/w_1280,c_limit/Ted-Lucas-Images-of-Life.jpeg" alt="Images of Life cover"/>]]></description>
+  </item>
   <item>
     <title>Visible Cloaks – Paradessence</title>
     <link>https://pitchfork.com/reviews/albums/visible-cloaks-paradessence/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The inspiring and idiosyncratic debut from a 53-year-old priest in Greece pinballs between drone metal and techno Christmas carols, field recordings and hymns.</p>
 <img src="https://media.pitchfork.com/photos/6a04c381ba84c115d37e1fd5/16:9/w_1280,c_limit/Father%20Dionysios%20Tabakis%20Paradise%20Metal.jpg" alt="Paradise Metal cover"/>
 <img src="https://media.pitchfork.com/photos/6a04c381ba84c115d37e1fd5/16:9/w_1280,c_limit/Father%20Dionysios%20Tabakis%20Paradise%20Metal.jpg" alt="Paradise Metal cover"/>]]></description>
-  </item>
-  <item>
-    <title>Daughn Gibson – Lake Mary not mysterious</title>
-    <link>https://pitchfork.com/reviews/albums/daughn-gibson-lake-mary-not-mysterious/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/daughn-gibson-lake-mary-not-mysterious/</guid>
-    <pubDate>Thu, 14 May 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a04c10d382cbf64dbb31ffb/16:9/w_1280,c_limit/Daughn%20Gibson%20-%20Lake%20Mary%20not%20mysterious%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The songwriter’s first album in 11 years transports his suave, smoky style and lounge-lizard character studies to the Florida swamps.</p>
-<img src="https://media.pitchfork.com/photos/6a04c10d382cbf64dbb31ffb/16:9/w_1280,c_limit/Daughn%20Gibson%20-%20Lake%20Mary%20not%20mysterious%20album%20art.jpg" alt="Lake Mary not mysterious cover"/>
-<img src="https://media.pitchfork.com/photos/6a04c10d382cbf64dbb31ffb/16:9/w_1280,c_limit/Daughn%20Gibson%20-%20Lake%20Mary%20not%20mysterious%20album%20art.jpg" alt="Lake Mary not mysterious cover"/>]]></description>
   </item>
   </channel>
 </rss>
