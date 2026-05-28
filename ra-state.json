@@ -1,6 +1,18 @@
 {
-  "latestId": 36354,
+  "latestId": 36355,
   "reviews": [
+    {
+      "id": 36355,
+      "url": "https://ra.co/reviews/36355",
+      "artist": "fakemink",
+      "release": "Terrified",
+      "type": "Album",
+      "description": "",
+      "image": "https://public.ra.co/images/ra-co-logo.jpeg",
+      "label": "",
+      "genre": "",
+      "pubDate": "Fri, 29 May 2026 08:00:08 GMT"
+    },
     {
       "id": 36354,
       "url": "https://ra.co/reviews/36354",
