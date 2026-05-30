@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 21:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 10:03:09 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Bleachers – everyone for ten minutes</title>
+    <link>https://pitchfork.com/reviews/albums/bleachers-everyone-for-ten-minutes/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bleachers-everyone-for-ten-minutes/</guid>
+    <pubDate>Sat, 30 May 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a19c77636c8161963ca6732/16:9/w_1280,c_limit/everyone%20for%20ten%20minutes%20bleachers.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>With its shout-along hooks and pop drama, Jack Antonoff’s latest isn’t so different from the others, but his myopic views on modern life and celebrity are becoming harder to bear.</p>
+<img src="https://media.pitchfork.com/photos/6a19c77636c8161963ca6732/16:9/w_1280,c_limit/everyone%20for%20ten%20minutes%20bleachers.jpg" alt="everyone for ten minutes cover"/>
+<img src="https://media.pitchfork.com/photos/6a19c77636c8161963ca6732/16:9/w_1280,c_limit/everyone%20for%20ten%20minutes%20bleachers.jpg" alt="everyone for ten minutes cover"/>]]></description>
+  </item>
   <item>
     <title>Boards of Canada – Inferno</title>
     <link>https://pitchfork.com/reviews/albums/boards-of-canada-inferno/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On its second album, the five-piece carries the torch for Long Island melodic hardcore while injecting the style with contemporary themes of burnout and exhaustion.</p>
 <img src="https://media.pitchfork.com/photos/6a0c7903623c72125408514f/16:9/w_1280,c_limit/Koyo-Barely%20Here.jpg" alt="Barely Here cover"/>
 <img src="https://media.pitchfork.com/photos/6a0c7903623c72125408514f/16:9/w_1280,c_limit/Koyo-Barely%20Here.jpg" alt="Barely Here cover"/>]]></description>
-  </item>
-  <item>
-    <title>Suzy Sheer – Pure Pulse, Slow Decay, Soft Release</title>
-    <link>https://pitchfork.com/reviews/albums/suzy-sheer-pure-pulse-slow-decay-soft-release/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/suzy-sheer-pure-pulse-slow-decay-soft-release/</guid>
-    <pubDate>Wed, 20 May 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a06251b5a5d25ad8ed14b75/16:9/w_1280,c_limit/Suzy%20Sheer%20-%20Pure%20Pulse,%20Slow%20Decay,%20Soft%20Release%20album%20artwork.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Frosty and a little unreal, the duo’s languid, atmospheric dream-electroclash unfurls like a gentle 5 a.m. comedown.</p>
-<img src="https://media.pitchfork.com/photos/6a06251b5a5d25ad8ed14b75/16:9/w_1280,c_limit/Suzy%20Sheer%20-%20Pure%20Pulse,%20Slow%20Decay,%20Soft%20Release%20album%20artwork.jpg" alt="Pure Pulse, Slow Decay, Soft Release cover"/>
-<img src="https://media.pitchfork.com/photos/6a06251b5a5d25ad8ed14b75/16:9/w_1280,c_limit/Suzy%20Sheer%20-%20Pure%20Pulse,%20Slow%20Decay,%20Soft%20Release%20album%20artwork.jpg" alt="Pure Pulse, Slow Decay, Soft Release cover"/>]]></description>
   </item>
   </channel>
 </rss>
