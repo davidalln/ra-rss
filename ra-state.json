@@ -1,6 +1,18 @@
 {
-  "latestId": 36355,
+  "latestId": 36356,
   "reviews": [
+    {
+      "id": 36356,
+      "url": "https://ra.co/reviews/36356",
+      "artist": "Spekki Webu",
+      "release": "Bootstrap Paradox",
+      "type": "Album",
+      "description": "",
+      "image": "https://static.ra.co/images/reviews/2026/a0591349319_10-cover.jpg",
+      "label": "",
+      "genre": "",
+      "pubDate": "Sat, 13 Jun 2026 09:42:20 GMT"
+    },
     {
       "id": 36355,
       "url": "https://ra.co/reviews/36355",

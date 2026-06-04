@@ -6,10 +6,20 @@
     <link>https://ra.co/reviews</link>
     <description>Latest album, EP and single reviews from Resident Advisor</description>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 22:29:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 11:17:28 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link href="https://ra.co/reviews" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Spekki Webu – Bootstrap Paradox [Album]</title>
+    <link>https://ra.co/reviews/36356</link>
+    <guid isPermaLink="true">https://ra.co/reviews/36356</guid>
+    <pubDate>Sat, 13 Jun 2026 09:42:20 GMT</pubDate>
+    
+    
+    <enclosure url="https://static.ra.co/images/reviews/2026/a0591349319_10-cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[]]></description>
+  </item>
   <item>
     <title>fakemink – Terrified [Album]</title>
     <link>https://ra.co/reviews/36355</link>
