@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 21:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 10:06:51 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Death Cab for Cutie – I Built You a Tower</title>
+    <link>https://pitchfork.com/reviews/albums/death-cab-for-cutie-i-built-you-a-tower/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/death-cab-for-cutie-i-built-you-a-tower/</guid>
+    <pubDate>Sat, 06 Jun 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/69b80cec9b0d68aefcc4aeaf/16:9/w_1280,c_limit/Death%20Cab%20for%20Cutie%20_%20IBYAT%20_%20Album%20Art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Ben Gibbard and co. sound newly emboldened on their first record in four years, with musicianship that evokes the band’s golden era and a newly mature, self-aware perspective on hardships and grief.</p>
+<img src="https://media.pitchfork.com/photos/69b80cec9b0d68aefcc4aeaf/16:9/w_1280,c_limit/Death%20Cab%20for%20Cutie%20_%20IBYAT%20_%20Album%20Art.jpg" alt="I Built You a Tower cover"/>
+<img src="https://media.pitchfork.com/photos/69b80cec9b0d68aefcc4aeaf/16:9/w_1280,c_limit/Death%20Cab%20for%20Cutie%20_%20IBYAT%20_%20Album%20Art.jpg" alt="I Built You a Tower cover"/>]]></description>
+  </item>
   <item>
     <title>Modest Mouse – An Eraser and a Maze</title>
     <link>https://pitchfork.com/reviews/albums/modest-mouse-an-eraser-and-a-maze/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Referential, silly, and filled with trans angst, the pop singer’s debut album gets a deluxe reissue with a handful of new tracks that blend Radio Disney pastiche and 2000s R&amp;B-pop.</p>
 <img src="https://media.pitchfork.com/photos/6a1718179b618e19bf1264d1/16:9/w_1280,c_limit/Eli-Stage%20Girl.jpg" alt="Stage Girl (Not A Dream Anymore) cover"/>
 <img src="https://media.pitchfork.com/photos/6a1718179b618e19bf1264d1/16:9/w_1280,c_limit/Eli-Stage%20Girl.jpg" alt="Stage Girl (Not A Dream Anymore) cover"/>]]></description>
-  </item>
-  <item>
-    <title>Car Seat Headrest – Teen of Denial: Joe’s Story</title>
-    <link>https://pitchfork.com/reviews/albums/car-seat-headrest-teen-of-denial-joes-story/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/car-seat-headrest-teen-of-denial-joes-story/</guid>
-    <pubDate>Thu, 28 May 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a0cb11dc470b3acbf4b7052/16:9/w_1280,c_limit/1%20(17).jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Will Toledo tinkers with his breakthrough release, rerecording pieces, changing lyrics, and swapping out some tracks. Even its more perplexing choices offer a reminder of the original record’s charm.</p>
-<img src="https://media.pitchfork.com/photos/6a0cb11dc470b3acbf4b7052/16:9/w_1280,c_limit/1%20(17).jpg" alt="Teen of Denial: Joe’s Story cover"/>
-<img src="https://media.pitchfork.com/photos/6a0cb11dc470b3acbf4b7052/16:9/w_1280,c_limit/1%20(17).jpg" alt="Teen of Denial: Joe’s Story cover"/>]]></description>
   </item>
   </channel>
 </rss>
