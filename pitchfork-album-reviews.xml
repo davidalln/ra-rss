@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 21:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 10:31:18 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Theo Parrish – First Floor</title>
+    <link>https://pitchfork.com/reviews/albums/theo-parrish-first-floor/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/theo-parrish-first-floor/</guid>
+    <pubDate>Sun, 07 Jun 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a229c0846a46659ea942463/16:9/w_1280,c_limit/Theo%20Parrish%20-%20First%20Floor.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the 1998 debut album from a Chicago-born DJ-producer who heard in house music the spirit of rebellion.</p>
+<img src="https://media.pitchfork.com/photos/6a229c0846a46659ea942463/16:9/w_1280,c_limit/Theo%20Parrish%20-%20First%20Floor.jpg" alt="First Floor cover"/>
+<img src="https://media.pitchfork.com/photos/6a229c0846a46659ea942463/16:9/w_1280,c_limit/Theo%20Parrish%20-%20First%20Floor.jpg" alt="First Floor cover"/>]]></description>
+  </item>
   <item>
     <title>Death Cab for Cutie – I Built You a Tower</title>
     <link>https://pitchfork.com/reviews/albums/death-cab-for-cutie-i-built-you-a-tower/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Radiohead’s resident enigma returns, spinning Brazilian influences, vintage rocktronica, and sumptuous string arrangements into a much more confident, cohesive follow-up to his 2020 solo debut.</p>
 <img src="https://media.pitchfork.com/photos/69b95063082acd84b31eea69/16:9/w_1280,c_limit/unnamed%20(34).jpg" alt="Blue Morpho cover"/>
 <img src="https://media.pitchfork.com/photos/69b95063082acd84b31eea69/16:9/w_1280,c_limit/unnamed%20(34).jpg" alt="Blue Morpho cover"/>]]></description>
-  </item>
-  <item>
-    <title>Eli – Stage Girl (Not A Dream Anymore)</title>
-    <link>https://pitchfork.com/reviews/albums/eli-stage-girl-not-a-dream-anymore/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/eli-stage-girl-not-a-dream-anymore/</guid>
-    <pubDate>Thu, 28 May 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a1718179b618e19bf1264d1/16:9/w_1280,c_limit/Eli-Stage%20Girl.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Referential, silly, and filled with trans angst, the pop singer’s debut album gets a deluxe reissue with a handful of new tracks that blend Radio Disney pastiche and 2000s R&amp;B-pop.</p>
-<img src="https://media.pitchfork.com/photos/6a1718179b618e19bf1264d1/16:9/w_1280,c_limit/Eli-Stage%20Girl.jpg" alt="Stage Girl (Not A Dream Anymore) cover"/>
-<img src="https://media.pitchfork.com/photos/6a1718179b618e19bf1264d1/16:9/w_1280,c_limit/Eli-Stage%20Girl.jpg" alt="Stage Girl (Not A Dream Anymore) cover"/>]]></description>
   </item>
   </channel>
 </rss>
