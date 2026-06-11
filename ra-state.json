@@ -1,5 +1,5 @@
 {
-  "latestId": 36356,
+  "latestId": 36357,
   "reviews": [
     {
       "id": 36356,
@@ -12,6 +12,18 @@
       "label": "",
       "genre": "",
       "pubDate": "Sat, 13 Jun 2026 09:42:20 GMT"
+    },
+    {
+      "id": 36357,
+      "url": "https://ra.co/reviews/36357",
+      "artist": "horsegiirL",
+      "release": "Nature Is Healing",
+      "type": "Album",
+      "description": "The debut album from the world&#x27;s first half-horse, half-human DJ is a unique accomplishment for both species.",
+      "image": "https://static.ra.co/images/reviews/2026/horsegiirl_nature_is_healing_1400x1400-cover.jpg",
+      "label": "breakthrough set",
+      "genre": "",
+      "pubDate": "Fri, 12 Jun 2026 07:00:21 GMT"
     },
     {
       "id": 36355,

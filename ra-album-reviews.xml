@@ -6,7 +6,7 @@
     <link>https://ra.co/reviews</link>
     <description>Latest album, EP and single reviews from Resident Advisor</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 12:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 22:04:05 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link href="https://ra.co/reviews" rel="self" type="application/rss+xml"/>
     
@@ -19,6 +19,17 @@
     
     <enclosure url="https://static.ra.co/images/reviews/2026/a0591349319_10-cover.jpg" type="image/jpeg" length="0"/>
     <description><![CDATA[]]></description>
+  </item>
+  <item>
+    <title>horsegiirL – Nature Is Healing [Album]</title>
+    <link>https://ra.co/reviews/36357</link>
+    <guid isPermaLink="true">https://ra.co/reviews/36357</guid>
+    <pubDate>Fri, 12 Jun 2026 07:00:21 GMT</pubDate>
+    <category><![CDATA[breakthrough set]]></category>
+    
+    <enclosure url="https://static.ra.co/images/reviews/2026/horsegiirl_nature_is_healing_1400x1400-cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The debut album from the world&amp;#x27;s first half-horse, half-human DJ is a unique accomplishment for both species.</p>
+<p>Label: breakthrough set</p>]]></description>
   </item>
   <item>
     <title>fakemink – Terrified [Album]</title>
