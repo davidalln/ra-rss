@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 21:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 10:32:21 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Saint Pepsi – Hit Vibes</title>
+    <link>https://pitchfork.com/reviews/albums/saint-pepsi-hit-vibes/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/saint-pepsi-hit-vibes/</guid>
+    <pubDate>Sat, 13 Jun 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a2c19d767e96bbc5cc79829/16:9/w_1280,c_limit/Saint%20Pepsi-Hit%20Vibes.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>A new reissue honors the influential vaporwave project’s crowning achievement: a groovy, sample-laden ode to excess that briefly epitomized the genre’s future funk offshoot.</p>
+<img src="https://media.pitchfork.com/photos/6a2c19d767e96bbc5cc79829/16:9/w_1280,c_limit/Saint%20Pepsi-Hit%20Vibes.jpg" alt="Hit Vibes cover"/>
+<img src="https://media.pitchfork.com/photos/6a2c19d767e96bbc5cc79829/16:9/w_1280,c_limit/Saint%20Pepsi-Hit%20Vibes.jpg" alt="Hit Vibes cover"/>]]></description>
+  </item>
   <item>
     <title>Olivia Rodrigo – you seem pretty sad for a girl so in love</title>
     <link>https://pitchfork.com/reviews/albums/olivia-rodrigo-you-seem-pretty-sad-for-a-girl-so-in-love/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The San Francisco rapper strikes a reflective tone on a laid-back set about staying true to yourself in a place that’s constantly changing.</p>
 <img src="https://media.pitchfork.com/photos/6a2036dd02c67393992961d3/16:9/w_1280,c_limit/Lil%20Pete%20Real%20Is%20Back.jpg" alt="REAL IS BACK cover"/>
 <img src="https://media.pitchfork.com/photos/6a2036dd02c67393992961d3/16:9/w_1280,c_limit/Lil%20Pete%20Real%20Is%20Back.jpg" alt="REAL IS BACK cover"/>]]></description>
-  </item>
-  <item>
-    <title>Martyn – Music for Existing</title>
-    <link>https://pitchfork.com/reviews/albums/martyn-music-for-existing/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/martyn-music-for-existing/</guid>
-    <pubDate>Thu, 04 Jun 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a2056b7d62ed6a1f1be91d4/16:9/w_1280,c_limit/Martyn-Music%20for%20Existing.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>After years of releasing dubstep/techno hybrids, the Dutch-born, D.C.-based producer recruits his instrumentalist friends for a dynamic fusion of jazz and bass music.</p>
-<img src="https://media.pitchfork.com/photos/6a2056b7d62ed6a1f1be91d4/16:9/w_1280,c_limit/Martyn-Music%20for%20Existing.jpg" alt="Music for Existing cover"/>
-<img src="https://media.pitchfork.com/photos/6a2056b7d62ed6a1f1be91d4/16:9/w_1280,c_limit/Martyn-Music%20for%20Existing.jpg" alt="Music for Existing cover"/>]]></description>
   </item>
   </channel>
 </rss>
