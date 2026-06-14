@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 21:19:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 10:50:28 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Hole – Celebrity Skin</title>
+    <link>https://pitchfork.com/reviews/albums/hole-celebrity-skin/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hole-celebrity-skin/</guid>
+    <pubDate>Sun, 14 Jun 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a2c315b798cb0f312feba36/16:9/w_1280,c_limit/Hole%20-%20Celebrity%20Skin%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at Hole’s third album, Hollywood in the late 1990s, and the redemption of Courtney Love.</p>
+<img src="https://media.pitchfork.com/photos/6a2c315b798cb0f312feba36/16:9/w_1280,c_limit/Hole%20-%20Celebrity%20Skin%20album%20art.jpg" alt="Celebrity Skin cover"/>
+<img src="https://media.pitchfork.com/photos/6a2c315b798cb0f312feba36/16:9/w_1280,c_limit/Hole%20-%20Celebrity%20Skin%20album%20art.jpg" alt="Celebrity Skin cover"/>]]></description>
+  </item>
   <item>
     <title>Saint Pepsi – Hit Vibes</title>
     <link>https://pitchfork.com/reviews/albums/saint-pepsi-hit-vibes/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Atlanta star celebrates love, success, and the birth of her first child on a defiant, triumphant album where the baby-making music is inseparable from her self-made swagger.</p>
 <img src="https://media.pitchfork.com/photos/6a206e40af6ee683a4a40bbf/16:9/w_1280,c_limit/Latto%20-%20Big%20Mama%20album%20art.jpg" alt="Big Mama cover"/>
 <img src="https://media.pitchfork.com/photos/6a206e40af6ee683a4a40bbf/16:9/w_1280,c_limit/Latto%20-%20Big%20Mama%20album%20art.jpg" alt="Big Mama cover"/>]]></description>
-  </item>
-  <item>
-    <title>Lil Pete – REAL IS BACK</title>
-    <link>https://pitchfork.com/reviews/albums/lil-pete-real-is-back/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lil-pete-real-is-back/</guid>
-    <pubDate>Thu, 04 Jun 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a2036dd02c67393992961d3/16:9/w_1280,c_limit/Lil%20Pete%20Real%20Is%20Back.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The San Francisco rapper strikes a reflective tone on a laid-back set about staying true to yourself in a place that’s constantly changing.</p>
-<img src="https://media.pitchfork.com/photos/6a2036dd02c67393992961d3/16:9/w_1280,c_limit/Lil%20Pete%20Real%20Is%20Back.jpg" alt="REAL IS BACK cover"/>
-<img src="https://media.pitchfork.com/photos/6a2036dd02c67393992961d3/16:9/w_1280,c_limit/Lil%20Pete%20Real%20Is%20Back.jpg" alt="REAL IS BACK cover"/>]]></description>
   </item>
   </channel>
 </rss>
