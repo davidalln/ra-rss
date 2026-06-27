@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 21:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:12:01 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Charanjit Singh – Synthesizing: Ten Ragas to a Disco Beat</title>
+    <link>https://pitchfork.com/reviews/albums/charanjit-singh-synthesizing-ten-ragas-to-a-disco-beat/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/charanjit-singh-synthesizing-ten-ragas-to-a-disco-beat/</guid>
+    <pubDate>Sat, 27 Jun 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a3d8d77e3da420706eb3a56/16:9/w_1280,c_limit/Charanjit%20Singh%20-%20Ten%20Ragas%20to%20a%20Disco%20Beat.jpeg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>A new reissue revisits the Mumbai composer’s 1982 album of Roland TB-303 and Indian raga, which uncannily anticipated the sound of Chicago acid house by five years.</p>
+<img src="https://media.pitchfork.com/photos/6a3d8d77e3da420706eb3a56/16:9/w_1280,c_limit/Charanjit%20Singh%20-%20Ten%20Ragas%20to%20a%20Disco%20Beat.jpeg" alt="Synthesizing: Ten Ragas to a Disco Beat cover"/>
+<img src="https://media.pitchfork.com/photos/6a3d8d77e3da420706eb3a56/16:9/w_1280,c_limit/Charanjit%20Singh%20-%20Ten%20Ragas%20to%20a%20Disco%20Beat.jpeg" alt="Synthesizing: Ten Ragas to a Disco Beat cover"/>]]></description>
+  </item>
   <item>
     <title>Chanel Beads – Your Day Will Come</title>
     <link>https://pitchfork.com/reviews/albums/chanel-beads-your-day-will-come-2026/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Backed by a diverse set of producers, the New York rapper spends his latest pondering the nuances of his hometown and what it means to age gracefully.</p>
 <img src="https://media.pitchfork.com/photos/6a272b0fe09efbb87f55b5e7/16:9/w_1280,c_limit/5056818809286.jpg" alt="Ancient History cover"/>
 <img src="https://media.pitchfork.com/photos/6a272b0fe09efbb87f55b5e7/16:9/w_1280,c_limit/5056818809286.jpg" alt="Ancient History cover"/>]]></description>
-  </item>
-  <item>
-    <title>RaiNao – Marcriá</title>
-    <link>https://pitchfork.com/reviews/albums/rainao-macria/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rainao-macria/</guid>
-    <pubDate>Wed, 17 Jun 2026 04:02:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a31aa6fe922f54904a31fd3/16:9/w_1280,c_limit/Macri%CC%81a.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Puerto Rican artist’s second album explodes her signature sound into an immersive, sensory experience that’s both meticulous and playful.</p>
-<img src="https://media.pitchfork.com/photos/6a31aa6fe922f54904a31fd3/16:9/w_1280,c_limit/Macri%CC%81a.jpg" alt="Marcriá cover"/>
-<img src="https://media.pitchfork.com/photos/6a31aa6fe922f54904a31fd3/16:9/w_1280,c_limit/Macri%CC%81a.jpg" alt="Marcriá cover"/>]]></description>
   </item>
   </channel>
 </rss>
