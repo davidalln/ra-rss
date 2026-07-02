@@ -1,6 +1,18 @@
 {
-  "latestId": 36359,
+  "latestId": 36360,
   "reviews": [
+    {
+      "id": 36360,
+      "url": "https://ra.co/reviews/36360",
+      "artist": "Kelela",
+      "release": "new avatar",
+      "type": "Album",
+      "description": "",
+      "image": "https://static.ra.co/images/reviews/2026/kelela-cover.jpg",
+      "label": "",
+      "genre": "",
+      "pubDate": "Thu, 09 Jul 2026 07:00:36 GMT"
+    },
     {
       "id": 36359,
       "url": "https://ra.co/reviews/36359",
