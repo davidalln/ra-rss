@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 21:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 09:39:34 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Pixies – Complete B Sides: 1988-97 (Remaster)</title>
+    <link>https://pitchfork.com/reviews/albums/pixies-complete-b-sides-1988-97-remaster/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/pixies-complete-b-sides-1988-97-remaster/</guid>
+    <pubDate>Sat, 11 Jul 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a4eae609b8aa766740a77af/16:9/w_1280,c_limit/Pixies-Complete%20B%20Sides-%201988-97.png" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Originally released in 2001 and newly remastered, the collection of B-sides testifies to the alt-rock icons’ trademark eccentricity while cranking up the deviance.</p>
+<img src="https://media.pitchfork.com/photos/6a4eae609b8aa766740a77af/16:9/w_1280,c_limit/Pixies-Complete%20B%20Sides-%201988-97.png" alt="Complete B Sides: 1988-97 (Remaster) cover"/>
+<img src="https://media.pitchfork.com/photos/6a4eae609b8aa766740a77af/16:9/w_1280,c_limit/Pixies-Complete%20B%20Sides-%201988-97.png" alt="Complete B Sides: 1988-97 (Remaster) cover"/>]]></description>
+  </item>
   <item>
     <title>Jack White – Frozen Charlotte</title>
     <link>https://pitchfork.com/reviews/albums/jack-white-frozen-charlotte/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The band’s 10th album makes a return to gargantuan, ambivalent, overleveraged Muse form.</p>
 <img src="https://media.pitchfork.com/photos/6a43f13a1244b686083fb269/16:9/w_1280,c_limit/Muse%20-%20The%20Wow!%20Signal%20album%20art%20large.jpg" alt="The Wow! Signal cover"/>
 <img src="https://media.pitchfork.com/photos/6a43f13a1244b686083fb269/16:9/w_1280,c_limit/Muse%20-%20The%20Wow!%20Signal%20album%20art%20large.jpg" alt="The Wow! Signal cover"/>]]></description>
-  </item>
-  <item>
-    <title>Brutalismus 3000 – Harmony</title>
-    <link>https://pitchfork.com/reviews/albums/brutalismus-3000-harmony/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/brutalismus-3000-harmony/</guid>
-    <pubDate>Wed, 01 Jul 2026 04:02:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a42d79170bee232abda2c57/16:9/w_1280,c_limit/Brutalismus%203000%20-%20Harmony%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Berlin duo’s second album, co-produced with Boys Noize and Dylan Brady, adds pop appeal and B-movie drama to twitchy hardstyle techno that’s dystopian but not humorless.</p>
-<img src="https://media.pitchfork.com/photos/6a42d79170bee232abda2c57/16:9/w_1280,c_limit/Brutalismus%203000%20-%20Harmony%20album%20art.jpg" alt="Harmony cover"/>
-<img src="https://media.pitchfork.com/photos/6a42d79170bee232abda2c57/16:9/w_1280,c_limit/Brutalismus%203000%20-%20Harmony%20album%20art.jpg" alt="Harmony cover"/>]]></description>
   </item>
   </channel>
 </rss>
