@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 20:51:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 09:52:58 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Rush – Power Windows</title>
+    <link>https://pitchfork.com/reviews/albums/rush-power-windows/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rush-power-windows/</guid>
+    <pubDate>Sun, 12 Jul 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a5121b8802a4771608bd79a/16:9/w_1280,c_limit/Rush%20-%20Power%20Windows%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at Rush’s 1985 album, the peak of the prog trio’s synth era, home to both impressive musicianship and pop grandeur.</p>
+<img src="https://media.pitchfork.com/photos/6a5121b8802a4771608bd79a/16:9/w_1280,c_limit/Rush%20-%20Power%20Windows%20album%20art.jpg" alt="Power Windows cover"/>
+<img src="https://media.pitchfork.com/photos/6a5121b8802a4771608bd79a/16:9/w_1280,c_limit/Rush%20-%20Power%20Windows%20album%20art.jpg" alt="Power Windows cover"/>]]></description>
+  </item>
   <item>
     <title>Pixies – Complete B Sides: 1988-97 (Remaster)</title>
     <link>https://pitchfork.com/reviews/albums/pixies-complete-b-sides-1988-97-remaster/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Norwegian post-hardcore band’s second album is equal parts claustrophobia and confrontation, unleashing furious lyrics alongside thrashing hooks.</p>
 <img src="https://media.pitchfork.com/photos/6a4529e783e29a3a2789bb02/16:9/w_1280,c_limit/Hammok-When%20Does%20This%20Place%20Become%20Our%20Scene.jpg" alt="When Does This Place Become Our Scene cover"/>
 <img src="https://media.pitchfork.com/photos/6a4529e783e29a3a2789bb02/16:9/w_1280,c_limit/Hammok-When%20Does%20This%20Place%20Become%20Our%20Scene.jpg" alt="When Does This Place Become Our Scene cover"/>]]></description>
-  </item>
-  <item>
-    <title>Muse – The Wow! Signal</title>
-    <link>https://pitchfork.com/reviews/albums/muse-the-wow-signal/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/muse-the-wow-signal/</guid>
-    <pubDate>Wed, 01 Jul 2026 04:03:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a43f13a1244b686083fb269/16:9/w_1280,c_limit/Muse%20-%20The%20Wow!%20Signal%20album%20art%20large.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The band’s 10th album makes a return to gargantuan, ambivalent, overleveraged Muse form.</p>
-<img src="https://media.pitchfork.com/photos/6a43f13a1244b686083fb269/16:9/w_1280,c_limit/Muse%20-%20The%20Wow!%20Signal%20album%20art%20large.jpg" alt="The Wow! Signal cover"/>
-<img src="https://media.pitchfork.com/photos/6a43f13a1244b686083fb269/16:9/w_1280,c_limit/Muse%20-%20The%20Wow!%20Signal%20album%20art%20large.jpg" alt="The Wow! Signal cover"/>]]></description>
   </item>
   </channel>
 </rss>
