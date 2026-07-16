@@ -6,10 +6,21 @@
     <link>https://ra.co/reviews</link>
     <description>Latest album, EP and single reviews from Resident Advisor</description>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 10:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:01:46 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link href="https://ra.co/reviews" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Various Artists – veneration for the sacred action [Album]</title>
+    <link>https://ra.co/reviews/36361</link>
+    <guid isPermaLink="true">https://ra.co/reviews/36361</guid>
+    <pubDate>Fri, 17 Jul 2026 07:00:28 GMT</pubDate>
+    <category><![CDATA[decrying]]></category>
+    
+    <enclosure url="https://static.ra.co/images/reviews/2026/a318632680_1400x1400-cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The London collective&amp;#x27;s first VA compilation captures the sound of a bracing, self-contained scene built on proximity, improvisation and collaboration.</p>
+<p>Label: decrying</p>]]></description>
+  </item>
   <item>
     <title>Kelela – new avatar [Album]</title>
     <link>https://ra.co/reviews/36360</link>

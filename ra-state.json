@@ -1,6 +1,18 @@
 {
-  "latestId": 36360,
+  "latestId": 36361,
   "reviews": [
+    {
+      "id": 36361,
+      "url": "https://ra.co/reviews/36361",
+      "artist": "Various Artists",
+      "release": "veneration for the sacred action",
+      "type": "Album",
+      "description": "The London collective&#x27;s first VA compilation captures the sound of a bracing, self-contained scene built on proximity, improvisation and collaboration.",
+      "image": "https://static.ra.co/images/reviews/2026/a318632680_1400x1400-cover.jpg",
+      "label": "decrying",
+      "genre": "",
+      "pubDate": "Fri, 17 Jul 2026 07:00:28 GMT"
+    },
     {
       "id": 36360,
       "url": "https://ra.co/reviews/36360",
