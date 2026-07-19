@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 20:52:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:53:46 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Opeth – Damnation</title>
+    <link>https://pitchfork.com/reviews/albums/opeth-damnation/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/opeth-damnation/</guid>
+    <pubDate>Sun, 19 Jul 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a5a7b5a63e78c247e3dcae3/16:9/w_1280,c_limit/Opeth%20Damnation.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the Swedish metal band’s desolate foray into melodic songwriting, the moment when their unabashed prog worship led to a haunted emotional breakthrough.</p>
+<img src="https://media.pitchfork.com/photos/6a5a7b5a63e78c247e3dcae3/16:9/w_1280,c_limit/Opeth%20Damnation.jpg" alt="Damnation cover"/>
+<img src="https://media.pitchfork.com/photos/6a5a7b5a63e78c247e3dcae3/16:9/w_1280,c_limit/Opeth%20Damnation.jpg" alt="Damnation cover"/>]]></description>
+  </item>
   <item>
     <title>Four Tet – ʅ͡͡͡͡͡͡͡͡͡͡͡(̸̢̛̼̞̭͋ͅ)̸͚̰͛̔̾̀̿͒͂:̴͓̞̑̌̂̆̊͋̀:̸͎̟̯̂̓̌ ҉ ͡ ͞ ͞ ͞ ҉● ࿀ ● ࿀ ● ҉⃝ ⃝͢ ͞ ͘ ͞⃝̕ ͢ ̛ ⃝ ̸ ̡ ͢⃝̧ ͡ ͡ ̀ ̧ ̢⃝͜ ҉ ͞ ͞ ⃝͞ ͘ ͞ ͡⃝ ⃝҉҈҉҈҉҈҉҈҉҈҉ :̶̢͙͙͕̠̩͆(̷̮͍͚̫͚͂̍)̵̳̗̊( ̟̞̝̜̙̘̗̖҉̵̴̨̧̢̡̼̻̺̹̳̲̱̰̯̮̭̬̫̪̩̦̥̤̣̠҈͈͇͉͍͎͓͔͕͖͙͚͜͢͢͢͢͢͢͢͢͢͢͢͢͢͢ͅ l̡̡̡ ̡͌ Ɵʅ͡͡͡͡͡͡͡͡͡͡͡(̸</title>
     <link>https://pitchfork.com/reviews/albums/four-tet-wingdings-2026/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Despite its title, the latest from the Opium protégé offers more of the same. He sounds bored of his rage-rap formula and unsure where to go next.</p>
 <img src="https://media.pitchfork.com/photos/6a42be0e70bee232abda2bb3/16:9/w_1280,c_limit/26UMGIM78337.rgb.jpg" alt="xperiment cover"/>
 <img src="https://media.pitchfork.com/photos/6a42be0e70bee232abda2bb3/16:9/w_1280,c_limit/26UMGIM78337.rgb.jpg" alt="xperiment cover"/>]]></description>
-  </item>
-  <item>
-    <title>Tasha – You Are Spring!</title>
-    <link>https://pitchfork.com/reviews/albums-tasha-you-are-spring/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums-tasha-you-are-spring/</guid>
-    <pubDate>Thu, 09 Jul 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a3bf5d49a42b8c769a68f18/16:9/w_1280,c_limit/64377.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Gratitude and hope triumph on the songwriter’s new album, which filigrees gentle, sunny folk-pop with clarinet and strings.</p>
-<img src="https://media.pitchfork.com/photos/6a3bf5d49a42b8c769a68f18/16:9/w_1280,c_limit/64377.jpg" alt="You Are Spring! cover"/>
-<img src="https://media.pitchfork.com/photos/6a3bf5d49a42b8c769a68f18/16:9/w_1280,c_limit/64377.jpg" alt="You Are Spring! cover"/>]]></description>
   </item>
   </channel>
 </rss>
