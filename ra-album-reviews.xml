@@ -6,10 +6,20 @@
     <link>https://ra.co/reviews</link>
     <description>Latest album, EP and single reviews from Resident Advisor</description>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2026 10:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:05:59 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link href="https://ra.co/reviews" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Charli xcx – Music, Fashion, Film [Album]</title>
+    <link>https://ra.co/reviews/36362</link>
+    <guid isPermaLink="true">https://ra.co/reviews/36362</guid>
+    <pubDate>Fri, 24 Jul 2026 07:30:31 GMT</pubDate>
+    
+    
+    <enclosure url="https://static.ra.co/images/reviews/2026/music-fashion-film_1400x1400-cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The British pop star says the dance floor is dead. Her eighth album swaps euphoria for guitar crunch and diary-page candour—bracing, if rarely classic.</p>]]></description>
+  </item>
   <item>
     <title>Various Artists – veneration for the sacred action [Album]</title>
     <link>https://ra.co/reviews/36361</link>
