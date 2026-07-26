@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 20:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 10:02:22 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Janet Jackson – All for You</title>
+    <link>https://pitchfork.com/reviews/janet-jackson-all-for-you/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/janet-jackson-all-for-you/</guid>
+    <pubDate>Sun, 26 Jul 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a63b3d6c89396b732b1afe2/16:9/w_1280,c_limit/Janet%20Jackson%20All%20for%20You.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit Janet’s oft-overlooked 2001 album, an emotionally luxurious record released at a turning point in her career.</p>
+<img src="https://media.pitchfork.com/photos/6a63b3d6c89396b732b1afe2/16:9/w_1280,c_limit/Janet%20Jackson%20All%20for%20You.jpg" alt="All for You cover"/>
+<img src="https://media.pitchfork.com/photos/6a63b3d6c89396b732b1afe2/16:9/w_1280,c_limit/Janet%20Jackson%20All%20for%20You.jpg" alt="All for You cover"/>]]></description>
+  </item>
   <item>
     <title>Shania Twain – Little Miss Twain</title>
     <link>https://pitchfork.com/reviews/shania-twain-little-miss-twain/</link>
@@ -288,16 +298,6 @@
     <description><![CDATA[<p>Weaving psych rock and shoegaze textures into her mellifluous R&amp;B ethos, Kelela’s new album turns to guitars at a moment fraught with social and emotional tension.</p>
 <img src="https://media.pitchfork.com/photos/6a4eaaae4a5266a9ca2838fa/16:9/w_1280,c_limit/5056818808807%20(1).png" alt="new avatar cover"/>
 <img src="https://media.pitchfork.com/photos/6a4eaaae4a5266a9ca2838fa/16:9/w_1280,c_limit/5056818808807%20(1).png" alt="new avatar cover"/>]]></description>
-  </item>
-  <item>
-    <title>Standing on the Corner – Standing on the Corner II</title>
-    <link>https://pitchfork.com/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/standing-on-the-corner-standing-on-the-corner-ii/</guid>
-    <pubDate>Thu, 16 Jul 2026 04:02:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a57d799da97cd502857a4f3/16:9/w_1280,c_limit/Standing%20on%20the%20Corner%20II.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Brooklyn collective is characteristically adventurous and opaque on this 64-minute heat check—what it lacks in accessibility, it makes up for in depth.</p>
-<img src="https://media.pitchfork.com/photos/6a57d799da97cd502857a4f3/16:9/w_1280,c_limit/Standing%20on%20the%20Corner%20II.jpg" alt="Standing on the Corner II cover"/>
-<img src="https://media.pitchfork.com/photos/6a57d799da97cd502857a4f3/16:9/w_1280,c_limit/Standing%20on%20the%20Corner%20II.jpg" alt="Standing on the Corner II cover"/>]]></description>
   </item>
   </channel>
 </rss>
