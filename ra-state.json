@@ -1,6 +1,18 @@
 {
-  "latestId": 36363,
+  "latestId": 36364,
   "reviews": [
+    {
+      "id": 36364,
+      "url": "https://ra.co/reviews/36364",
+      "artist": "Picture",
+      "release": "Uuuuuuuu",
+      "type": "Album",
+      "description": "The artist also known as Central turns toward dub techno, finding more spark and movement in the form than more or less anyone has in years.",
+      "image": "https://static.ra.co/images/reviews/2026/uuuuuuuupicture-cover.jpg",
+      "label": "",
+      "genre": "",
+      "pubDate": "Tue, 28 Jul 2026 09:00:20 GMT"
+    },
     {
       "id": 36363,
       "url": "https://ra.co/reviews/36363",

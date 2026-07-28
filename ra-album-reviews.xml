@@ -6,10 +6,20 @@
     <link>https://ra.co/reviews</link>
     <description>Latest album, EP and single reviews from Resident Advisor</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:37:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 21:09:34 GMT</lastBuildDate>
     <ttl>10</ttl>
     <atom:link href="https://ra.co/reviews" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Picture – Uuuuuuuu [Album]</title>
+    <link>https://ra.co/reviews/36364</link>
+    <guid isPermaLink="true">https://ra.co/reviews/36364</guid>
+    <pubDate>Tue, 28 Jul 2026 09:00:20 GMT</pubDate>
+    
+    
+    <enclosure url="https://static.ra.co/images/reviews/2026/uuuuuuuupicture-cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The artist also known as Central turns toward dub techno, finding more spark and movement in the form than more or less anyone has in years.</p>]]></description>
+  </item>
   <item>
     <title>Fauzia – I Was Here For A Moment [Single]</title>
     <link>https://ra.co/reviews/36363</link>
