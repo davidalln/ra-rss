@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 21:07:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 10:02:46 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Ween – 12 Golden Country Greats (Deluxe Edition)</title>
+    <link>https://pitchfork.com/reviews/albums/ween-12-golden-country-greats-deluxe-edition/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/ween-12-golden-country-greats-deluxe-edition/</guid>
+    <pubDate>Sat, 01 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a6cafb0d25cce84dca65355/16:9/w_1280,c_limit/Ween%2012%20Country%20Greats%20Deluxe%20Edition.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Time has been good to Dean and Gene’s kidding-not-kidding country pivot, recorded with seasoned Nashville pros, and this triple-disc reissue helps contextualize its joy and incongruity.</p>
+<img src="https://media.pitchfork.com/photos/6a6cafb0d25cce84dca65355/16:9/w_1280,c_limit/Ween%2012%20Country%20Greats%20Deluxe%20Edition.jpg" alt="12 Golden Country Greats (Deluxe Edition) cover"/>
+<img src="https://media.pitchfork.com/photos/6a6cafb0d25cce84dca65355/16:9/w_1280,c_limit/Ween%2012%20Country%20Greats%20Deluxe%20Edition.jpg" alt="12 Golden Country Greats (Deluxe Edition) cover"/>]]></description>
+  </item>
   <item>
     <title>Ariana Grande – petal</title>
     <link>https://pitchfork.com/reviews/albums/ariana-grande-petal/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On its debut album, the Australian quartet weaves quietly arresting details and playful sonic touches into catchy, familiar noise-pop.</p>
 <img src="https://media.pitchfork.com/photos/6a61093cce9948ee20977843/16:9/w_1280,c_limit/Swapmeet%20Mount%20Zero.jpg" alt="Mount Zero cover"/>
 <img src="https://media.pitchfork.com/photos/6a61093cce9948ee20977843/16:9/w_1280,c_limit/Swapmeet%20Mount%20Zero.jpg" alt="Mount Zero cover"/>]]></description>
-  </item>
-  <item>
-    <title>DJ Cinéma Quartier Latin – Bruise</title>
-    <link>https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dj-cinema-quartier-latin-bruise/</guid>
-    <pubDate>Thu, 23 Jul 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a60d8e1b8b61c35688107f7/16:9/w_1280,c_limit/DJ%20Cine%CC%81ma%20Quartier%20Latin%20-%20Bruise.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>On a debut album heavy with moody breakbeats, the Montréal producer revels in the shades of gray between body music and brain music.</p>
-<img src="https://media.pitchfork.com/photos/6a60d8e1b8b61c35688107f7/16:9/w_1280,c_limit/DJ%20Cine%CC%81ma%20Quartier%20Latin%20-%20Bruise.jpg" alt="Bruise cover"/>
-<img src="https://media.pitchfork.com/photos/6a60d8e1b8b61c35688107f7/16:9/w_1280,c_limit/DJ%20Cine%CC%81ma%20Quartier%20Latin%20-%20Bruise.jpg" alt="Bruise cover"/>]]></description>
   </item>
   </channel>
 </rss>
