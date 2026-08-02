@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 20:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 09:59:45 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Primus – Pork Soda</title>
+    <link>https://pitchfork.com/reviews/albums/primus-pork-soda/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/primus-pork-soda/</guid>
+    <pubDate>Sun, 02 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a6ceac5310e897939ad4f48/16:9/w_1280,c_limit/Primus%20Pork%20Soda.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the California funk-metal band’s grisly, oozing third album: one of the weirdest and most upsetting records to ever sell more than a million copies.</p>
+<img src="https://media.pitchfork.com/photos/6a6ceac5310e897939ad4f48/16:9/w_1280,c_limit/Primus%20Pork%20Soda.jpg" alt="Pork Soda cover"/>
+<img src="https://media.pitchfork.com/photos/6a6ceac5310e897939ad4f48/16:9/w_1280,c_limit/Primus%20Pork%20Soda.jpg" alt="Pork Soda cover"/>]]></description>
+  </item>
   <item>
     <title>Ween – 12 Golden Country Greats (Deluxe Edition)</title>
     <link>https://pitchfork.com/reviews/albums/ween-12-golden-country-greats-deluxe-edition/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The NYC avant-garde supergroup’s latest album collides jazz, prog, metal, and noise into a murky, disorienting brew whose fried extremes belie the players’ virtuosity.</p>
 <img src="https://media.pitchfork.com/photos/6a60e036e58c75729d8fc0e8/16:9/w_1280,c_limit/Nu%20Jazz%20-%20Un%20Jazz.jpg" alt="Un Jazz cover"/>
 <img src="https://media.pitchfork.com/photos/6a60e036e58c75729d8fc0e8/16:9/w_1280,c_limit/Nu%20Jazz%20-%20Un%20Jazz.jpg" alt="Un Jazz cover"/>]]></description>
-  </item>
-  <item>
-    <title>Swapmeet – Mount Zero</title>
-    <link>https://pitchfork.com/reviews/albums/swapmeet-mount-zero/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/swapmeet-mount-zero/</guid>
-    <pubDate>Thu, 23 Jul 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a61093cce9948ee20977843/16:9/w_1280,c_limit/Swapmeet%20Mount%20Zero.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>On its debut album, the Australian quartet weaves quietly arresting details and playful sonic touches into catchy, familiar noise-pop.</p>
-<img src="https://media.pitchfork.com/photos/6a61093cce9948ee20977843/16:9/w_1280,c_limit/Swapmeet%20Mount%20Zero.jpg" alt="Mount Zero cover"/>
-<img src="https://media.pitchfork.com/photos/6a61093cce9948ee20977843/16:9/w_1280,c_limit/Swapmeet%20Mount%20Zero.jpg" alt="Mount Zero cover"/>]]></description>
   </item>
   </channel>
 </rss>
