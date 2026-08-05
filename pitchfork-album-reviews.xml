@@ -5,10 +5,50 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 21:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:37:37 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Trashcan Sinatras – Ever the Optimist</title>
+    <link>https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/</guid>
+    <pubDate>Wed, 05 Aug 2026 04:03:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a69129c23b4a054fcd8a7ae/16:9/w_1280,c_limit/5053760149545_cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The Scottish band’s first album in 10 years is elegant and uplifting while acknowledging the weight of time passed. Its bittersweet tone feels all the more meaningful after the tragic death of guitarist and vocalist John Douglas this week.</p>
+<img src="https://media.pitchfork.com/photos/6a69129c23b4a054fcd8a7ae/16:9/w_1280,c_limit/5053760149545_cover.jpg" alt="Ever the Optimist cover"/>
+<img src="https://media.pitchfork.com/photos/6a69129c23b4a054fcd8a7ae/16:9/w_1280,c_limit/5053760149545_cover.jpg" alt="Ever the Optimist cover"/>]]></description>
+  </item>
+  <item>
+    <title>FLO – Therapy at the Club</title>
+    <link>https://pitchfork.com/reviews/albums/flo-therapy-at-the-club/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/flo-therapy-at-the-club/</guid>
+    <pubDate>Wed, 05 Aug 2026 04:02:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/69fb4c92d7b8d612f3b905c8/16:9/w_1280,c_limit/FLO%20TATC%20Album%20Cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Feeling yourself is the biggest feeling of all on the UK trio’s second album, where plush harmonies power glossy 2000s pop-R&amp;B throwbacks.</p>
+<img src="https://media.pitchfork.com/photos/69fb4c92d7b8d612f3b905c8/16:9/w_1280,c_limit/FLO%20TATC%20Album%20Cover.jpg" alt="Therapy at the Club cover"/>
+<img src="https://media.pitchfork.com/photos/69fb4c92d7b8d612f3b905c8/16:9/w_1280,c_limit/FLO%20TATC%20Album%20Cover.jpg" alt="Therapy at the Club cover"/>]]></description>
+  </item>
+  <item>
+    <title>Hana Stretton – tiarn</title>
+    <link>https://pitchfork.com/reviews/albums/hana-stretton-tiarn/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hana-stretton-tiarn/</guid>
+    <pubDate>Wed, 05 Aug 2026 04:01:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a7238966fb86ecfa7877d9f/16:9/w_1280,c_limit/Tiarn%20by%20Hanna%20Stretton.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The second album by the Australian folk musician and sound-collagist presents her most clearly defined songs yet without sacrificing the impressionistic glow of her past work.</p>
+<img src="https://media.pitchfork.com/photos/6a7238966fb86ecfa7877d9f/16:9/w_1280,c_limit/Tiarn%20by%20Hanna%20Stretton.jpg" alt="tiarn cover"/>
+<img src="https://media.pitchfork.com/photos/6a7238966fb86ecfa7877d9f/16:9/w_1280,c_limit/Tiarn%20by%20Hanna%20Stretton.jpg" alt="tiarn cover"/>]]></description>
+  </item>
+  <item>
+    <title>Willow – The Thread</title>
+    <link>https://pitchfork.com/reviews/albums/willow-the-thread/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/willow-the-thread/</guid>
+    <pubDate>Wed, 05 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a5e92df02f6a16802ac1c75/16:9/w_1280,c_limit/5026854988580.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The genre-bending multi-instrumentalist’s second album of the year finds a groove within its own esoteric logic.</p>
+<img src="https://media.pitchfork.com/photos/6a5e92df02f6a16802ac1c75/16:9/w_1280,c_limit/5026854988580.jpg" alt="The Thread cover"/>
+<img src="https://media.pitchfork.com/photos/6a5e92df02f6a16802ac1c75/16:9/w_1280,c_limit/5026854988580.jpg" alt="The Thread cover"/>]]></description>
+  </item>
   <item>
     <title>Arca – XXXXX</title>
     <link>https://pitchfork.com/reviews/albums/arca-xxxxx/</link>
@@ -268,46 +308,6 @@
     <description><![CDATA[<p>Folding field recordings of his daily walks into delicate and sometimes twee electronic sketches, the Argentinian producer pays tribute to the charms of his Patagonian lakeside hometown.</p>
 <img src="https://media.pitchfork.com/photos/6a672a55dc867adc9ab0f871/16:9/w_1280,c_limit/Lumtz%20-%20Tesoros.jpg" alt="Tesoros cover"/>
 <img src="https://media.pitchfork.com/photos/6a672a55dc867adc9ab0f871/16:9/w_1280,c_limit/Lumtz%20-%20Tesoros.jpg" alt="Tesoros cover"/>]]></description>
-  </item>
-  <item>
-    <title>Picture – Uuuuuuuu</title>
-    <link>https://pitchfork.com/reviews/albums/picture-uuuuuuuu/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/picture-uuuuuuuu/</guid>
-    <pubDate>Mon, 27 Jul 2026 04:03:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a63b68adf8edba43266a72a/16:9/w_1280,c_limit/Picture%20Uuuuuuuu.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Natal Zaks brings dub techno to a higher level on an energetic and atmospheric 2x12&quot;, another pin in the lapel of the new and outstanding Short Span label.</p>
-<img src="https://media.pitchfork.com/photos/6a63b68adf8edba43266a72a/16:9/w_1280,c_limit/Picture%20Uuuuuuuu.jpg" alt="Uuuuuuuu cover"/>
-<img src="https://media.pitchfork.com/photos/6a63b68adf8edba43266a72a/16:9/w_1280,c_limit/Picture%20Uuuuuuuu.jpg" alt="Uuuuuuuu cover"/>]]></description>
-  </item>
-  <item>
-    <title>Foodman – HIKARIGASASHIKOMU</title>
-    <link>https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/foodman-hikarigasashikomu/</guid>
-    <pubDate>Mon, 27 Jul 2026 04:02:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a5e930ea4c6d3d7a46c1355/16:9/w_1280,c_limit/a0047127759_10.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Japanese producer’s tangled, footwork-inspired beats have always been bewildering, but the deranged voices and extreme chaos of his latest LP sounds genuinely menacing.</p>
-<img src="https://media.pitchfork.com/photos/6a5e930ea4c6d3d7a46c1355/16:9/w_1280,c_limit/a0047127759_10.jpg" alt="HIKARIGASASHIKOMU cover"/>
-<img src="https://media.pitchfork.com/photos/6a5e930ea4c6d3d7a46c1355/16:9/w_1280,c_limit/a0047127759_10.jpg" alt="HIKARIGASASHIKOMU cover"/>]]></description>
-  </item>
-  <item>
-    <title>Dux Content – Lifestyle</title>
-    <link>https://pitchfork.com/reviews/albums/dux-content-lifestyle/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dux-content-lifestyle/</guid>
-    <pubDate>Mon, 27 Jul 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a627ce1ab3d027b3880cd15/16:9/w_1280,c_limit/Dux%20Content%20-%20Lifestyle%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>PC Music architects A. G. Cook and Danny L Harle reissue their 2012 album as a duo: a playful early adventure in the bubblegum maximalism that would shape the sound of pop.</p>
-<img src="https://media.pitchfork.com/photos/6a627ce1ab3d027b3880cd15/16:9/w_1280,c_limit/Dux%20Content%20-%20Lifestyle%20album%20art.jpg" alt="Lifestyle cover"/>
-<img src="https://media.pitchfork.com/photos/6a627ce1ab3d027b3880cd15/16:9/w_1280,c_limit/Dux%20Content%20-%20Lifestyle%20album%20art.jpg" alt="Lifestyle cover"/>]]></description>
-  </item>
-  <item>
-    <title>Judah Weston / IsoKeys – Why So Much Hate</title>
-    <link>https://pitchfork.com/reviews/albums/judah-weston-isokeys-why-so-much-hate/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/judah-weston-isokeys-why-so-much-hate/</guid>
-    <pubDate>Mon, 27 Jul 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a63b0a174005510ba9a8a38/16:9/w_1280,c_limit/Judah%20Weston%20Iso%20Keys%20Why%20So%20Much%20Hate.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The young New York rapper and his producer brother have already found success on TikTok, but their strange and poignant full-length debut proves there’s far more to their craft.</p>
-<img src="https://media.pitchfork.com/photos/6a63b0a174005510ba9a8a38/16:9/w_1280,c_limit/Judah%20Weston%20Iso%20Keys%20Why%20So%20Much%20Hate.jpg" alt="Why So Much Hate cover"/>
-<img src="https://media.pitchfork.com/photos/6a63b0a174005510ba9a8a38/16:9/w_1280,c_limit/Judah%20Weston%20Iso%20Keys%20Why%20So%20Much%20Hate.jpg" alt="Why So Much Hate cover"/>]]></description>
   </item>
   </channel>
 </rss>
