@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 20:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 08:43:41 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Overmono – Pure Devotion</title>
+    <link>https://pitchfork.com/reviews/albums/overmono-pure-devotion/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/overmono-pure-devotion/</guid>
+    <pubDate>Sat, 08 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a75f3a5e05982d6ef68daf1/16:9/w_1280,c_limit/Overmono%20-%20Pure%20Devotion.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The Russell brothers bridge the big-beat thrills and soaring emotions of their live shows with a more intimate, stripped-back, headphone-ready sound.</p>
+<img src="https://media.pitchfork.com/photos/6a75f3a5e05982d6ef68daf1/16:9/w_1280,c_limit/Overmono%20-%20Pure%20Devotion.jpg" alt="Pure Devotion cover"/>
+<img src="https://media.pitchfork.com/photos/6a75f3a5e05982d6ef68daf1/16:9/w_1280,c_limit/Overmono%20-%20Pure%20Devotion.jpg" alt="Pure Devotion cover"/>]]></description>
+  </item>
   <item>
     <title>Ravyn Lenae – Blue Island</title>
     <link>https://pitchfork.com/reviews/albums/ravyn-lenae-blue-island/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On its third album, the Philadelphia sibling duo crafts folk-pop gems that are warm, familiar, and slightly surreal.</p>
 <img src="https://media.pitchfork.com/photos/6a6a4bc2ba16438a6e1702bc/16:9/w_1280,c_limit/Sam%20and%20Louise%20Sullivan%20Love%20&amp;%20Devotion.png" alt="Love &amp; Devotion cover"/>
 <img src="https://media.pitchfork.com/photos/6a6a4bc2ba16438a6e1702bc/16:9/w_1280,c_limit/Sam%20and%20Louise%20Sullivan%20Love%20&amp;%20Devotion.png" alt="Love &amp; Devotion cover"/>]]></description>
-  </item>
-  <item>
-    <title>Leo – Cicada Burnt</title>
-    <link>https://pitchfork.com/reviews/albums/leo-cicada-burnt/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/leo-cicada-burnt/</guid>
-    <pubDate>Thu, 30 Jul 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a6a3748fdd0ba9932ac1d62/16:9/w_1280,c_limit/Leo%20-%20Cicada%20Burnt%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>On his first appearance for Peak Oil, the Mancunian producer animates foreboding, percussive bass music with tricky details and Escherian grooves.</p>
-<img src="https://media.pitchfork.com/photos/6a6a3748fdd0ba9932ac1d62/16:9/w_1280,c_limit/Leo%20-%20Cicada%20Burnt%20album%20art.jpg" alt="Cicada Burnt cover"/>
-<img src="https://media.pitchfork.com/photos/6a6a3748fdd0ba9932ac1d62/16:9/w_1280,c_limit/Leo%20-%20Cicada%20Burnt%20album%20art.jpg" alt="Cicada Burnt cover"/>]]></description>
   </item>
   </channel>
 </rss>
