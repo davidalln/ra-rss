@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 20:33:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:31:18 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Nintendo Sound Team – Donkey Kong Bananza</title>
+    <link>https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/</guid>
+    <pubDate>Sat, 15 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a7da3ca3215fe581f0461a0/16:9/w_1280,c_limit/Donkey%20Kong%20Bananza.jpeg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>A newly released soundtrack to the latest reinvention of the beloved Nintendo franchise doubles as a playful tribute to music’s central role in the world of Donkey Kong.</p>
+<img src="https://media.pitchfork.com/photos/6a7da3ca3215fe581f0461a0/16:9/w_1280,c_limit/Donkey%20Kong%20Bananza.jpeg" alt="Donkey Kong Bananza cover"/>
+<img src="https://media.pitchfork.com/photos/6a7da3ca3215fe581f0461a0/16:9/w_1280,c_limit/Donkey%20Kong%20Bananza.jpeg" alt="Donkey Kong Bananza cover"/>]]></description>
+  </item>
   <item>
     <title>L’Rain – fata morgana</title>
     <link>https://pitchfork.com/reviews/albums/lrain-fata-morgana/</link>
@@ -288,16 +298,6 @@
     <description><![CDATA[<p>The Chicago post-punks capture the erratic energy of their live shows on their debut album, propelled by singer Maddie Daviss’ quick wit and clever observations.</p>
 <img src="https://media.pitchfork.com/photos/6a737ee5c2c9941107b52ff7/16:9/w_1280,c_limit/Cel%20Ray-Cel%20Rayzer.jpg" alt="Cel Rayzer cover"/>
 <img src="https://media.pitchfork.com/photos/6a737ee5c2c9941107b52ff7/16:9/w_1280,c_limit/Cel%20Ray-Cel%20Rayzer.jpg" alt="Cel Rayzer cover"/>]]></description>
-  </item>
-  <item>
-    <title>Sir Richard Bishop – Hillbilly Erotica</title>
-    <link>https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sir-richard-bishop-hillbilly-erotica/</guid>
-    <pubDate>Thu, 06 Aug 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a737558fc43a7acbbe7dfa8/16:9/w_1280,c_limit/Sir%20Richard%20Bishop%20-%20Hillbilly%20Erotica%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The guitarist wields his perennial outsider status to toy with the sound, the spirit, and the idea of American primitive.</p>
-<img src="https://media.pitchfork.com/photos/6a737558fc43a7acbbe7dfa8/16:9/w_1280,c_limit/Sir%20Richard%20Bishop%20-%20Hillbilly%20Erotica%20album%20art.jpg" alt="Hillbilly Erotica cover"/>
-<img src="https://media.pitchfork.com/photos/6a737558fc43a7acbbe7dfa8/16:9/w_1280,c_limit/Sir%20Richard%20Bishop%20-%20Hillbilly%20Erotica%20album%20art.jpg" alt="Hillbilly Erotica cover"/>]]></description>
   </item>
   </channel>
 </rss>
