@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 20:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:31:36 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Future – Monster</title>
+    <link>https://pitchfork.com/reviews/albums/future-monster/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/future-monster/</guid>
+    <pubDate>Sun, 16 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/671fa73c1feac3124ad685f4/16:9/w_1280,c_limit/Future-Monster.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we look back at the Atlanta rapper’s extremely raw 2014 mixtape, a mask-off heel turn that stands as the best release of Future’s career.</p>
+<img src="https://media.pitchfork.com/photos/671fa73c1feac3124ad685f4/16:9/w_1280,c_limit/Future-Monster.jpg" alt="Monster cover"/>
+<img src="https://media.pitchfork.com/photos/671fa73c1feac3124ad685f4/16:9/w_1280,c_limit/Future-Monster.jpg" alt="Monster cover"/>]]></description>
+  </item>
   <item>
     <title>Nintendo Sound Team – Donkey Kong Bananza</title>
     <link>https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/</link>
@@ -288,16 +298,6 @@
     <description><![CDATA[<p>Two years after his breakout hit, the country star returns with an ambitious concept album whose strongest moments place him in a deeper conversation with his genre.</p>
 <img src="https://media.pitchfork.com/photos/69e67cc3434f1fbd9feb805d/16:9/w_1280,c_limit/image%20(4).png" alt="The Outlaw Cherie Lee &amp; Other Western Tales cover"/>
 <img src="https://media.pitchfork.com/photos/69e67cc3434f1fbd9feb805d/16:9/w_1280,c_limit/image%20(4).png" alt="The Outlaw Cherie Lee &amp; Other Western Tales cover"/>]]></description>
-  </item>
-  <item>
-    <title>Cel Ray – Cel Rayzer</title>
-    <link>https://pitchfork.com/reviews/albums/cel-ray-cel-rayzer/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/cel-ray-cel-rayzer/</guid>
-    <pubDate>Thu, 06 Aug 2026 04:02:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a737ee5c2c9941107b52ff7/16:9/w_1280,c_limit/Cel%20Ray-Cel%20Rayzer.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Chicago post-punks capture the erratic energy of their live shows on their debut album, propelled by singer Maddie Daviss’ quick wit and clever observations.</p>
-<img src="https://media.pitchfork.com/photos/6a737ee5c2c9941107b52ff7/16:9/w_1280,c_limit/Cel%20Ray-Cel%20Rayzer.jpg" alt="Cel Rayzer cover"/>
-<img src="https://media.pitchfork.com/photos/6a737ee5c2c9941107b52ff7/16:9/w_1280,c_limit/Cel%20Ray-Cel%20Rayzer.jpg" alt="Cel Rayzer cover"/>]]></description>
   </item>
   </channel>
 </rss>
