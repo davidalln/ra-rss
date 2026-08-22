@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 20:29:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:32:19 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>The Cramps – Gravest Gravy</title>
+    <link>https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/</guid>
+    <pubDate>Sat, 22 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a8872df3ebe66b3901a1406/16:9/w_1280,c_limit/The%20Cramps%20-%20Gravest%20Gravy%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The songs may be familiar to diehards, but on a long-awaited collection of early Alex Chilton recordings they appear in their most primordial form, just sprouting legs and walking on land.</p>
+<img src="https://media.pitchfork.com/photos/6a8872df3ebe66b3901a1406/16:9/w_1280,c_limit/The%20Cramps%20-%20Gravest%20Gravy%20album%20art.jpg" alt="Gravest Gravy cover"/>
+<img src="https://media.pitchfork.com/photos/6a8872df3ebe66b3901a1406/16:9/w_1280,c_limit/The%20Cramps%20-%20Gravest%20Gravy%20album%20art.jpg" alt="Gravest Gravy cover"/>]]></description>
+  </item>
   <item>
     <title>GB – Herzsprung</title>
     <link>https://pitchfork.com/reviews/albums/gb-herzsprung/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Another album from Death Row’s zombie era suffers from basically everything, but there are hints of soul and funk to keep things interesting.</p>
 <img src="https://media.pitchfork.com/photos/6a7cc17eb8fe735507667c3f/16:9/w_1280,c_limit/Kurupt%20:%20DJ%20Battlecat%20Tales%20From%20My%20Hood.jpg" alt="Tales From My Hood cover"/>
 <img src="https://media.pitchfork.com/photos/6a7cc17eb8fe735507667c3f/16:9/w_1280,c_limit/Kurupt%20:%20DJ%20Battlecat%20Tales%20From%20My%20Hood.jpg" alt="Tales From My Hood cover"/>]]></description>
-  </item>
-  <item>
-    <title>James Ellis Ford – Lost in Another World</title>
-    <link>https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/james-ellis-ford-lost-in-another-world/</guid>
-    <pubDate>Thu, 13 Aug 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a7ca808b8fe735507667ba3/16:9/w_1280,c_limit/James%20Ellis%20Ford%20Lost%20in%20Another%20World.png" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The producer known for his work with Arctic Monkeys, Geese, and more recorded his second solo album while undergoing chemotherapy. It is surreal, tender, and achingly poignant.</p>
-<img src="https://media.pitchfork.com/photos/6a7ca808b8fe735507667ba3/16:9/w_1280,c_limit/James%20Ellis%20Ford%20Lost%20in%20Another%20World.png" alt="Lost in Another World cover"/>
-<img src="https://media.pitchfork.com/photos/6a7ca808b8fe735507667ba3/16:9/w_1280,c_limit/James%20Ellis%20Ford%20Lost%20in%20Another%20World.png" alt="Lost in Another World cover"/>]]></description>
   </item>
   </channel>
 </rss>
