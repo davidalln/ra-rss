@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:24:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:32:19 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Paradis – Recto Verso</title>
+    <link>https://pitchfork.com/reviews/albums/paradis-recto-verso/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/paradis-recto-verso/</guid>
+    <pubDate>Sun, 23 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a88a1bcbae9f66ea6243e31/16:9/w_1280,c_limit/Paradis%20-%20Recto%20Verso.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. This week, we revisit a 2016 album from France that reinvented the decade’s electro-pop as an idyllic Mediterranean dream.</p>
+<img src="https://media.pitchfork.com/photos/6a88a1bcbae9f66ea6243e31/16:9/w_1280,c_limit/Paradis%20-%20Recto%20Verso.jpg" alt="Recto Verso cover"/>
+<img src="https://media.pitchfork.com/photos/6a88a1bcbae9f66ea6243e31/16:9/w_1280,c_limit/Paradis%20-%20Recto%20Verso.jpg" alt="Recto Verso cover"/>]]></description>
+  </item>
   <item>
     <title>The Cramps – Gravest Gravy</title>
     <link>https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Ghanaian artist’s latest mixtape is aimed squarely at the club, with a fusion of global dance styles underpinning a spirited message of self-empowerment.</p>
 <img src="https://media.pitchfork.com/photos/6a7c4a6d991ca302e4999341/16:9/w_1280,c_limit/MOLIY%20-%20BADDIES%20%3C3%20MOLIY.jpg" alt="BADDIES &lt;3 MOLIY cover"/>
 <img src="https://media.pitchfork.com/photos/6a7c4a6d991ca302e4999341/16:9/w_1280,c_limit/MOLIY%20-%20BADDIES%20%3C3%20MOLIY.jpg" alt="BADDIES &lt;3 MOLIY cover"/>]]></description>
-  </item>
-  <item>
-    <title>Kurupt / DJ Battlecat – Tales From My Hood</title>
-    <link>https://pitchfork.com/reviews/albums/kurupt-dj-battlecat-tales-from-my-hood/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kurupt-dj-battlecat-tales-from-my-hood/</guid>
-    <pubDate>Thu, 13 Aug 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a7cc17eb8fe735507667c3f/16:9/w_1280,c_limit/Kurupt%20:%20DJ%20Battlecat%20Tales%20From%20My%20Hood.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Another album from Death Row’s zombie era suffers from basically everything, but there are hints of soul and funk to keep things interesting.</p>
-<img src="https://media.pitchfork.com/photos/6a7cc17eb8fe735507667c3f/16:9/w_1280,c_limit/Kurupt%20:%20DJ%20Battlecat%20Tales%20From%20My%20Hood.jpg" alt="Tales From My Hood cover"/>
-<img src="https://media.pitchfork.com/photos/6a7cc17eb8fe735507667c3f/16:9/w_1280,c_limit/Kurupt%20:%20DJ%20Battlecat%20Tales%20From%20My%20Hood.jpg" alt="Tales From My Hood cover"/>]]></description>
   </item>
   </channel>
 </rss>
