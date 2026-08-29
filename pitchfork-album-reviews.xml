@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 02:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 13:41:06 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Dinosaur Jr. – There Near</title>
+    <link>https://pitchfork.com/reviews/albums/dinosaur-jr-there-near/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dinosaur-jr-there-near/</guid>
+    <pubDate>Sat, 29 Aug 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a8f00a61c95da845ff938aa/16:9/w_1280,c_limit/Dinosaur%20Jr.%20-%20There%20Near.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The trio’s first album in five years marks a gloriously messy return to form, dredging up the scuzz of the group’s early work and privileging melody over showiness.</p>
+<img src="https://media.pitchfork.com/photos/6a8f00a61c95da845ff938aa/16:9/w_1280,c_limit/Dinosaur%20Jr.%20-%20There%20Near.jpg" alt="There Near cover"/>
+<img src="https://media.pitchfork.com/photos/6a8f00a61c95da845ff938aa/16:9/w_1280,c_limit/Dinosaur%20Jr.%20-%20There%20Near.jpg" alt="There Near cover"/>]]></description>
+  </item>
   <item>
     <title>Interpol – This Mirror Weighs a Ton</title>
     <link>https://pitchfork.com/reviews/albums/interpol-this-mirror-weighs-a-ton/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Nebraska-raised songwriter Emerson Borakove’s country-fried anti-folk-rock overflows with idiosyncratic humor and tender heart.</p>
 <img src="https://media.pitchfork.com/photos/6a85e3181a76128674729990/16:9/w_1280,c_limit/Prairie%20Princess%20-%20Jewish%20American%20Prairie%20Princess%20album%20art.jpg" alt="Jewish American Prairie Princess cover"/>
 <img src="https://media.pitchfork.com/photos/6a85e3181a76128674729990/16:9/w_1280,c_limit/Prairie%20Princess%20-%20Jewish%20American%20Prairie%20Princess%20album%20art.jpg" alt="Jewish American Prairie Princess cover"/>]]></description>
-  </item>
-  <item>
-    <title>730turk – Trapculinary vol.2 (the recipe)</title>
-    <link>https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/730turk-trapculinary-vol2-the-recipe/</guid>
-    <pubDate>Thu, 20 Aug 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a85d4efd51ddfb2b5de6524/16:9/w_1280,c_limit/730turk%20-%20Trapculinary%20vol.2%20(the%20recipe)%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Florida rapper faces off with himself on a hilariously animated new tape, ping-ponging between high and low voices over groovy Florida-via-Michigan beats.</p>
-<img src="https://media.pitchfork.com/photos/6a85d4efd51ddfb2b5de6524/16:9/w_1280,c_limit/730turk%20-%20Trapculinary%20vol.2%20(the%20recipe)%20album%20art.jpg" alt="Trapculinary vol.2 (the recipe) cover"/>
-<img src="https://media.pitchfork.com/photos/6a85d4efd51ddfb2b5de6524/16:9/w_1280,c_limit/730turk%20-%20Trapculinary%20vol.2%20(the%20recipe)%20album%20art.jpg" alt="Trapculinary vol.2 (the recipe) cover"/>]]></description>
   </item>
   </channel>
 </rss>
