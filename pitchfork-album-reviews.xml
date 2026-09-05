@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 22:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:42:52 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Alabama Shakes – I Must Be Dreaming</title>
+    <link>https://pitchfork.com/reviews/albums/alabama-shakes-i-must-be-dreaming/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/alabama-shakes-i-must-be-dreaming/</guid>
+    <pubDate>Sat, 05 Sep 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a8cae4267a78f90c0d9db9e/16:9/w_1280,c_limit/unnamed%20(29).png" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>After more than a decade away, Brittany Howard’s influential rock band still has a knack for righteous, retro catharsis, but the signature moves can’t help but feel a little safe.</p>
+<img src="https://media.pitchfork.com/photos/6a8cae4267a78f90c0d9db9e/16:9/w_1280,c_limit/unnamed%20(29).png" alt="I Must Be Dreaming cover"/>
+<img src="https://media.pitchfork.com/photos/6a8cae4267a78f90c0d9db9e/16:9/w_1280,c_limit/unnamed%20(29).png" alt="I Must Be Dreaming cover"/>]]></description>
+  </item>
   <item>
     <title>Erykah Badu / The Alchemist – Before the World Blows: The Abi and Alan Experiment</title>
     <link>https://pitchfork.com/reviews/albums/erykah-badu-the-alchemist-before-the-world-blows-the-abi-and-alan-experiment/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Brooklyn musician brings first-thought-best-thought energy to her meditative songwriting, pairing muted introspection with stripped-down baroque-pop arrangements for piano, strings, and synth.</p>
 <img src="https://media.pitchfork.com/photos/6a8ef1e2565c2e1489e6661b/16:9/w_1280,c_limit/Frances%20Chang%20-%20been%20thinking%20bout%20confession.jpg" alt="been thinking bout confession cover"/>
 <img src="https://media.pitchfork.com/photos/6a8ef1e2565c2e1489e6661b/16:9/w_1280,c_limit/Frances%20Chang%20-%20been%20thinking%20bout%20confession.jpg" alt="been thinking bout confession cover"/>]]></description>
-  </item>
-  <item>
-    <title>Elanor Moss – The Knife, The Needle</title>
-    <link>https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/elanor-moss-the-knife-the-needle/</guid>
-    <pubDate>Thu, 27 Aug 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a8f01acdea1150bd0bcbe8d/16:9/w_1280,c_limit/Elanor%20Moss-The%20Knife%20The%20Needle.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>On her debut album, the British singer-songwriter frames interpersonal tension as a wellspring of potential connection in a set of hushed psych-folk songs.</p>
-<img src="https://media.pitchfork.com/photos/6a8f01acdea1150bd0bcbe8d/16:9/w_1280,c_limit/Elanor%20Moss-The%20Knife%20The%20Needle.jpg" alt="The Knife, The Needle cover"/>
-<img src="https://media.pitchfork.com/photos/6a8f01acdea1150bd0bcbe8d/16:9/w_1280,c_limit/Elanor%20Moss-The%20Knife%20The%20Needle.jpg" alt="The Knife, The Needle cover"/>]]></description>
   </item>
   </channel>
 </rss>
