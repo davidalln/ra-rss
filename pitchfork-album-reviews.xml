@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:01:00 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Mac DeMarco – Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan</title>
+    <link>https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/</guid>
+    <pubDate>Sat, 12 Sep 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6aa2f33182c08b3dd55d3d44/16:9/w_1280,c_limit/Mac%20DeMarco%20Dog%20on%20the%20Rock.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Originally issued as tour-only CD-Rs, these four diaristic albums from the singer-songwriter bundle together half-formed suites of slow, seasick recordings aimed squarely at the die-hards.</p>
+<img src="https://media.pitchfork.com/photos/6aa2f33182c08b3dd55d3d44/16:9/w_1280,c_limit/Mac%20DeMarco%20Dog%20on%20the%20Rock.jpg" alt="Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan cover"/>
+<img src="https://media.pitchfork.com/photos/6aa2f33182c08b3dd55d3d44/16:9/w_1280,c_limit/Mac%20DeMarco%20Dog%20on%20the%20Rock.jpg" alt="Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan cover"/>]]></description>
+  </item>
   <item>
     <title>This Is Lorelei – The Singer in My Band</title>
     <link>https://pitchfork.com/reviews/albums/this-is-lorelei-the-singer-in-my-band/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Detroit duo moves between fractured EBM and synth-punk songs and pleasingly ugly sound collage on a mixtape fueled by noise and nihilism.</p>
 <img src="https://media.pitchfork.com/photos/6a96f75b0e320a38ee216195/16:9/w_1280,c_limit/Credit%20Card-Devil&#x27;s%20Night%20:%20Dead%20Internet.png" alt="Devil’s Night / Dead Internet cover"/>
 <img src="https://media.pitchfork.com/photos/6a96f75b0e320a38ee216195/16:9/w_1280,c_limit/Credit%20Card-Devil&#x27;s%20Night%20:%20Dead%20Internet.png" alt="Devil’s Night / Dead Internet cover"/>]]></description>
-  </item>
-  <item>
-    <title>Turnstile – NEVER ENOUGH: VERSIONS</title>
-    <link>https://pitchfork.com/reviews/albums/turnstile-never-enough-versions/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/turnstile-never-enough-versions/</guid>
-    <pubDate>Tue, 01 Sep 2026 04:03:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a95ccc28b32f5a6c140bf14/16:9/w_1280,c_limit/Turnstile%20-%20Never%20Enough%20Versions%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>With a features list that reads like a festival lineup, the sprawling remix edition of the Baltimore band’s 2025 album demonstrates there’s almost nowhere its songs can’t go.</p>
-<img src="https://media.pitchfork.com/photos/6a95ccc28b32f5a6c140bf14/16:9/w_1280,c_limit/Turnstile%20-%20Never%20Enough%20Versions%20album%20art.jpg" alt="NEVER ENOUGH: VERSIONS cover"/>
-<img src="https://media.pitchfork.com/photos/6a95ccc28b32f5a6c140bf14/16:9/w_1280,c_limit/Turnstile%20-%20Never%20Enough%20Versions%20album%20art.jpg" alt="NEVER ENOUGH: VERSIONS cover"/>]]></description>
   </item>
   </channel>
 </rss>
