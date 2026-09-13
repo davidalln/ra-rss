@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 21:59:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 13:10:24 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Art of Noise – In Visible Silence</title>
+    <link>https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/art-of-noise-in-visible-silence/</guid>
+    <pubDate>Sun, 13 Sep 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6aa42086d587e093eaa81564/16:9/w_1280,c_limit/The%20Art%20of%20Noise%20In%20Visible%20Silence.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the second album from a mischievous group of provocateurs whose high-tech hijinks anticipated a sea change in pop, dance, and hip-hop.</p>
+<img src="https://media.pitchfork.com/photos/6aa42086d587e093eaa81564/16:9/w_1280,c_limit/The%20Art%20of%20Noise%20In%20Visible%20Silence.jpg" alt="In Visible Silence cover"/>
+<img src="https://media.pitchfork.com/photos/6aa42086d587e093eaa81564/16:9/w_1280,c_limit/The%20Art%20of%20Noise%20In%20Visible%20Silence.jpg" alt="In Visible Silence cover"/>]]></description>
+  </item>
   <item>
     <title>Mac DeMarco – Dog on the Rock / Seven Off the Two / Seaplane Dog / The View from Tian Tan</title>
     <link>https://pitchfork.com/reviews/albums/mac-demarco-dog-on-the-rock-seven-off-the-two-seaplane-dog-the-view-from-tian-tan/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The rising London pop singer’s new EP is a spirited mix of late-aughts electronic pop, dancehall experimentation, and storybook charm.</p>
 <img src="https://media.pitchfork.com/photos/6a9703eb573253431d515665/16:9/w_1280,c_limit/iKeda%20-%20Bangs%20and%20Braces%20EP%20art.jpg" alt="Bangs N Braces EP cover"/>
 <img src="https://media.pitchfork.com/photos/6a9703eb573253431d515665/16:9/w_1280,c_limit/iKeda%20-%20Bangs%20and%20Braces%20EP%20art.jpg" alt="Bangs N Braces EP cover"/>]]></description>
-  </item>
-  <item>
-    <title>Credit Card – Devil’s Night / Dead Internet</title>
-    <link>https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/credit-card-devils-night-dead-internet/</guid>
-    <pubDate>Wed, 02 Sep 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a96f75b0e320a38ee216195/16:9/w_1280,c_limit/Credit%20Card-Devil&amp;#x27;s%20Night%20:%20Dead%20Internet.png" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Detroit duo moves between fractured EBM and synth-punk songs and pleasingly ugly sound collage on a mixtape fueled by noise and nihilism.</p>
-<img src="https://media.pitchfork.com/photos/6a96f75b0e320a38ee216195/16:9/w_1280,c_limit/Credit%20Card-Devil&#x27;s%20Night%20:%20Dead%20Internet.png" alt="Devil’s Night / Dead Internet cover"/>
-<img src="https://media.pitchfork.com/photos/6a96f75b0e320a38ee216195/16:9/w_1280,c_limit/Credit%20Card-Devil&#x27;s%20Night%20:%20Dead%20Internet.png" alt="Devil’s Night / Dead Internet cover"/>]]></description>
   </item>
   </channel>
 </rss>
