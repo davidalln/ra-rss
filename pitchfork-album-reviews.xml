@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:20:32 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Neil Young / The Chrome Hearts – Second Song</title>
+    <link>https://pitchfork.com/reviews/albums/neil-young-and-the-chrome-hearts-second-song/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/neil-young-and-the-chrome-hearts-second-song/</guid>
+    <pubDate>Sat, 19 Sep 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6a7615e62cd6fb2598322219/16:9/w_1280,c_limit/unnamed%20-%202026-08-07T131858.350.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The 80-year-old musician’s 50th studio album emphasizes atmosphere over songcraft, but its long, rambling tracks offer ample reminders of his melodic dexterity and lyrical gifts.</p>
+<img src="https://media.pitchfork.com/photos/6a7615e62cd6fb2598322219/16:9/w_1280,c_limit/unnamed%20-%202026-08-07T131858.350.jpg" alt="Second Song cover"/>
+<img src="https://media.pitchfork.com/photos/6a7615e62cd6fb2598322219/16:9/w_1280,c_limit/unnamed%20-%202026-08-07T131858.350.jpg" alt="Second Song cover"/>]]></description>
+  </item>
   <item>
     <title>Carly Rae Jepsen – Day and Night</title>
     <link>https://pitchfork.com/reviews/albums/carly-rae-jepsen-day-and-night/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On her band’s first LP in 12 years, Royal Trux’s Jennifer Herrema trades the vintage hard rock of previous albums for a woozy mix of hip-hop, R&amp;B, dub, and pawn-shop electronics.</p>
 <img src="https://media.pitchfork.com/photos/6aa1977a4714346d49249eee/16:9/w_1280,c_limit/Black%20Bananas%20-%20Bad%20Bunch.jpg" alt="Bad Bunch cover"/>
 <img src="https://media.pitchfork.com/photos/6aa1977a4714346d49249eee/16:9/w_1280,c_limit/Black%20Bananas%20-%20Bad%20Bunch.jpg" alt="Bad Bunch cover"/>]]></description>
-  </item>
-  <item>
-    <title>skaiwater – femme fatale</title>
-    <link>https://pitchfork.com/reviews/albums/skaiwater-femme-fatale/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/skaiwater-femme-fatale/</guid>
-    <pubDate>Thu, 10 Sep 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6aa1a8fde5b3f222e1e80541/16:9/w_1280,c_limit/skaiwater%20-%20femme%20fatale%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The UK-born rapper’s second album of the year is busy but breezy, a well-calibrated mix of rage textures and mellower grooves with Caribbean and Afrobeats influences.</p>
-<img src="https://media.pitchfork.com/photos/6aa1a8fde5b3f222e1e80541/16:9/w_1280,c_limit/skaiwater%20-%20femme%20fatale%20album%20art.jpg" alt="femme fatale cover"/>
-<img src="https://media.pitchfork.com/photos/6aa1a8fde5b3f222e1e80541/16:9/w_1280,c_limit/skaiwater%20-%20femme%20fatale%20album%20art.jpg" alt="femme fatale cover"/>]]></description>
   </item>
   </channel>
 </rss>
