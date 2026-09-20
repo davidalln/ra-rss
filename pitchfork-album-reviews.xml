@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:55:24 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Various Artists – Easy Rider (Music From the Soundtrack)</title>
+    <link>https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/various-artists-easy-rider-music-from-the-soundtrack/</guid>
+    <pubDate>Sun, 20 Sep 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6aad3db35d1e10272ab0f0da/16:9/w_1280,c_limit/Easy%20Rider%20(Music%20From%20the%20Soundtrack).jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the blockbuster soundtrack for the 1969 biker classic: a generational bounty of radio hits that, taken together, sounds like a dying dream.</p>
+<img src="https://media.pitchfork.com/photos/6aad3db35d1e10272ab0f0da/16:9/w_1280,c_limit/Easy%20Rider%20(Music%20From%20the%20Soundtrack).jpg" alt="Easy Rider (Music From the Soundtrack) cover"/>
+<img src="https://media.pitchfork.com/photos/6aad3db35d1e10272ab0f0da/16:9/w_1280,c_limit/Easy%20Rider%20(Music%20From%20the%20Soundtrack).jpg" alt="Easy Rider (Music From the Soundtrack) cover"/>]]></description>
+  </item>
   <item>
     <title>Neil Young / The Chrome Hearts – Second Song</title>
     <link>https://pitchfork.com/reviews/albums/neil-young-and-the-chrome-hearts-second-song/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Inspired by the riches of the Tuscan coast, producer David August and percussionist Lorenzo Setti concoct a pitch-perfect nirvana of Mediterranean chill-out music.</p>
 <img src="https://media.pitchfork.com/photos/6aa2bfca80b513ca9353c897/16:9/w_1280,c_limit/MFM084_ARGENTO_MIRAGGI_DIGITAL_FRONT_3000.jpg" alt="Miraggi cover"/>
 <img src="https://media.pitchfork.com/photos/6aa2bfca80b513ca9353c897/16:9/w_1280,c_limit/MFM084_ARGENTO_MIRAGGI_DIGITAL_FRONT_3000.jpg" alt="Miraggi cover"/>]]></description>
-  </item>
-  <item>
-    <title>Black Bananas – Bad Bunch</title>
-    <link>https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/black-bananas-bad-bunch/</guid>
-    <pubDate>Thu, 10 Sep 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6aa1977a4714346d49249eee/16:9/w_1280,c_limit/Black%20Bananas%20-%20Bad%20Bunch.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>On her band’s first LP in 12 years, Royal Trux’s Jennifer Herrema trades the vintage hard rock of previous albums for a woozy mix of hip-hop, R&amp;B, dub, and pawn-shop electronics.</p>
-<img src="https://media.pitchfork.com/photos/6aa1977a4714346d49249eee/16:9/w_1280,c_limit/Black%20Bananas%20-%20Bad%20Bunch.jpg" alt="Bad Bunch cover"/>
-<img src="https://media.pitchfork.com/photos/6aa1977a4714346d49249eee/16:9/w_1280,c_limit/Black%20Bananas%20-%20Bad%20Bunch.jpg" alt="Bad Bunch cover"/>]]></description>
   </item>
   </channel>
 </rss>
