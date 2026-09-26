@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 23:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:44:51 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Joy Division – Eternal (Live)</title>
+    <link>https://pitchfork.com/reviews/albums/joy-division-eternal-live/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/joy-division-eternal-live/</guid>
+    <pubDate>Sat, 26 Sep 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6ab6422f43b1170d7975a5f6/16:9/w_1280,c_limit/Joy%20Division%20-%20Eternal%20(Live).jpeg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>A 16-disc box set captures 14 months of live sets from the post-punk titans’ prime. Despite their dour reputation, they prove consistently thrilling on stage, led by Ian Curtis’ whirlwind intensity.</p>
+<img src="https://media.pitchfork.com/photos/6ab6422f43b1170d7975a5f6/16:9/w_1280,c_limit/Joy%20Division%20-%20Eternal%20(Live).jpeg" alt="Eternal (Live) cover"/>
+<img src="https://media.pitchfork.com/photos/6ab6422f43b1170d7975a5f6/16:9/w_1280,c_limit/Joy%20Division%20-%20Eternal%20(Live).jpeg" alt="Eternal (Live) cover"/>]]></description>
+  </item>
   <item>
     <title>Gilla Band – Pugnello</title>
     <link>https://pitchfork.com/reviews/albums/gilla-band-pugnello/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The London band’s mesmeric debut EP suffuses noise and drone in pastoral loveliness—or is it the other way around?</p>
 <img src="https://media.pitchfork.com/photos/6aaac655bca8b6db9ea5f44d/16:9/w_1280,c_limit/Curbside%20Lambsyear%20-%20Put%20Rings%20on%20All%20My%20Fingers%20to%20Weigh%20Down%20My%20Hands.jpg" alt="Put Rings on All My Fingers to Weigh Down My Hands EP cover"/>
 <img src="https://media.pitchfork.com/photos/6aaac655bca8b6db9ea5f44d/16:9/w_1280,c_limit/Curbside%20Lambsyear%20-%20Put%20Rings%20on%20All%20My%20Fingers%20to%20Weigh%20Down%20My%20Hands.jpg" alt="Put Rings on All My Fingers to Weigh Down My Hands EP cover"/>]]></description>
-  </item>
-  <item>
-    <title>Rhiannon Giddens – Hope Is the Thing With Feathers</title>
-    <link>https://pitchfork.com/reviews/albums/rhiannon-giddens-hope-is-the-thing-with-feathers/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rhiannon-giddens-hope-is-the-thing-with-feathers/</guid>
-    <pubDate>Thu, 17 Sep 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6aaaae3fde98d8784f70691c/16:9/w_1280,c_limit/Rhiannon%20Giddens-Hope%20Is%20the%20Thing%20With%20Feathers.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Focused on community and resilience, the folk singer and multi-instrumentalist’s new album anchors her wide-ranging musical explorations in her Carolina roots.</p>
-<img src="https://media.pitchfork.com/photos/6aaaae3fde98d8784f70691c/16:9/w_1280,c_limit/Rhiannon%20Giddens-Hope%20Is%20the%20Thing%20With%20Feathers.jpg" alt="Hope Is the Thing With Feathers cover"/>
-<img src="https://media.pitchfork.com/photos/6aaaae3fde98d8784f70691c/16:9/w_1280,c_limit/Rhiannon%20Giddens-Hope%20Is%20the%20Thing%20With%20Feathers.jpg" alt="Hope Is the Thing With Feathers cover"/>]]></description>
   </item>
   </channel>
 </rss>
