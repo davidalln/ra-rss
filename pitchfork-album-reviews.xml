@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 22:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 13:37:26 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Sasha / John Digweed – Northern Exposure</title>
+    <link>https://pitchfork.com/reviews/albums/sasha-john-digweed-northern-exposure/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sasha-john-digweed-northern-exposure/</guid>
+    <pubDate>Sun, 27 Sep 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6ab6f1223e0766e51cb65f45/16:9/w_1280,c_limit/Sasha%20and%20Digweed%20-%20Northern%20Exposure%20album%20art.png" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the British DJs’ monumental 1996 mix, a virtuosic blend of after-hours grooves and floor-filling intensity that helped to canonize the elusive sound of progressive house.</p>
+<img src="https://media.pitchfork.com/photos/6ab6f1223e0766e51cb65f45/16:9/w_1280,c_limit/Sasha%20and%20Digweed%20-%20Northern%20Exposure%20album%20art.png" alt="Northern Exposure cover"/>
+<img src="https://media.pitchfork.com/photos/6ab6f1223e0766e51cb65f45/16:9/w_1280,c_limit/Sasha%20and%20Digweed%20-%20Northern%20Exposure%20album%20art.png" alt="Northern Exposure cover"/>]]></description>
+  </item>
   <item>
     <title>Joy Division – Eternal (Live)</title>
     <link>https://pitchfork.com/reviews/albums/joy-division-eternal-live/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Steamy and subversive, the new album from former LCD Soundsystem collaborator Gavilán Rayna Russom’s long-running project is a queer electro manifesto.</p>
 <img src="https://media.pitchfork.com/photos/6aaae3cbbca8b6db9ea5f604/16:9/w_1280,c_limit/Black%20Meteoric%20Star%20Wet.jpg" alt="Wet cover"/>
 <img src="https://media.pitchfork.com/photos/6aaae3cbbca8b6db9ea5f604/16:9/w_1280,c_limit/Black%20Meteoric%20Star%20Wet.jpg" alt="Wet cover"/>]]></description>
-  </item>
-  <item>
-    <title>Curbside Lambsear – Put Rings on All My Fingers to Weigh Down My Hands EP</title>
-    <link>https://pitchfork.com/reviews/albums/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/curbside-lambsear-put-rings-on-all-my-fingers-to-weigh-down-my-hands/</guid>
-    <pubDate>Thu, 17 Sep 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6aaac655bca8b6db9ea5f44d/16:9/w_1280,c_limit/Curbside%20Lambsyear%20-%20Put%20Rings%20on%20All%20My%20Fingers%20to%20Weigh%20Down%20My%20Hands.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The London band’s mesmeric debut EP suffuses noise and drone in pastoral loveliness—or is it the other way around?</p>
-<img src="https://media.pitchfork.com/photos/6aaac655bca8b6db9ea5f44d/16:9/w_1280,c_limit/Curbside%20Lambsyear%20-%20Put%20Rings%20on%20All%20My%20Fingers%20to%20Weigh%20Down%20My%20Hands.jpg" alt="Put Rings on All My Fingers to Weigh Down My Hands EP cover"/>
-<img src="https://media.pitchfork.com/photos/6aaac655bca8b6db9ea5f44d/16:9/w_1280,c_limit/Curbside%20Lambsyear%20-%20Put%20Rings%20on%20All%20My%20Fingers%20to%20Weigh%20Down%20My%20Hands.jpg" alt="Put Rings on All My Fingers to Weigh Down My Hands EP cover"/>]]></description>
   </item>
   </channel>
 </rss>
