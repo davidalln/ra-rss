@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 23:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 13:08:15 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Elvis Costello – My Aim Is True (49th Anniversary Edition)</title>
+    <link>https://pitchfork.com/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/</guid>
+    <pubDate>Sat, 03 Oct 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6abfd347c6db02d433b467a1/16:9/w_1280,c_limit/My%20Aim%20Is%20True%20(49th%20Anniversary%20Edition).jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>A 104-track box set fleshes out the seemingly out-of-nowhere brilliance of Elvis Costello’s debut: a portrait of the artist as a fidgety young man, trying on literal and figurative hats.</p>
+<img src="https://media.pitchfork.com/photos/6abfd347c6db02d433b467a1/16:9/w_1280,c_limit/My%20Aim%20Is%20True%20(49th%20Anniversary%20Edition).jpg" alt="My Aim Is True (49th Anniversary Edition) cover"/>
+<img src="https://media.pitchfork.com/photos/6abfd347c6db02d433b467a1/16:9/w_1280,c_limit/My%20Aim%20Is%20True%20(49th%20Anniversary%20Edition).jpg" alt="My Aim Is True (49th Anniversary Edition) cover"/>]]></description>
+  </item>
   <item>
     <title>The Beatles – Rubber Soul (Super Deluxe)</title>
     <link>https://pitchfork.com/reviews/albums/the-beatles-rubber-soul-super-deluxe/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Midwest indie rock band returns with a new wave-influenced album that explores our innate desire to understand and be understood.</p>
 <img src="https://media.pitchfork.com/photos/6a29c7544360aada47098162/16:9/w_1280,c_limit/unnamed%20(84).jpg" alt="Melodie cover"/>
 <img src="https://media.pitchfork.com/photos/6a29c7544360aada47098162/16:9/w_1280,c_limit/unnamed%20(84).jpg" alt="Melodie cover"/>]]></description>
-  </item>
-  <item>
-    <title>Kim Ximya – Dogma</title>
-    <link>https://pitchfork.com/reviews/albums/kim-ximya-dogma/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/kim-ximya-dogma/</guid>
-    <pubDate>Thu, 24 Sep 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6ab3e508f858e5e35673672a/16:9/w_1280,c_limit/Kim%20Ximya%20-%20Dogma.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The combative Korean rapper leans into club music on his first album in six years, wrapping rhythmically inventive bilingual refrains around tough, futuristic beats.</p>
-<img src="https://media.pitchfork.com/photos/6ab3e508f858e5e35673672a/16:9/w_1280,c_limit/Kim%20Ximya%20-%20Dogma.jpg" alt="Dogma cover"/>
-<img src="https://media.pitchfork.com/photos/6ab3e508f858e5e35673672a/16:9/w_1280,c_limit/Kim%20Ximya%20-%20Dogma.jpg" alt="Dogma cover"/>]]></description>
   </item>
   </channel>
 </rss>
