@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2026 22:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:47:53 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Bowery Electric – Beat</title>
+    <link>https://pitchfork.com/reviews/albums/bowery-electric-beat/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bowery-electric-beat/</guid>
+    <pubDate>Sun, 04 Oct 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6abff970c6db02d433b46846/16:9/w_1280,c_limit/Bowery%20Electric%20Beat%20Album%20Cover.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the New York duo’s brilliant second album, a synthesis of shoegaze, ambient, and trip-hop that permeated the boundaries of rock and electronic music.</p>
+<img src="https://media.pitchfork.com/photos/6abff970c6db02d433b46846/16:9/w_1280,c_limit/Bowery%20Electric%20Beat%20Album%20Cover.jpg" alt="Beat cover"/>
+<img src="https://media.pitchfork.com/photos/6abff970c6db02d433b46846/16:9/w_1280,c_limit/Bowery%20Electric%20Beat%20Album%20Cover.jpg" alt="Beat cover"/>]]></description>
+  </item>
   <item>
     <title>Elvis Costello – My Aim Is True (49th Anniversary Edition)</title>
     <link>https://pitchfork.com/reviews/albums/elvis-costello-my-aim-is-true-49th-anniversary-edition/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>With A&amp;R assistance from Kendrick Lamar, the L.A. rapper shows off his versatility and knack for hooks on an album that effortlessly balances fury, swagger, and introspection.</p>
 <img src="https://media.pitchfork.com/photos/6ab40a47a1e14fdca21ea8b8/16:9/w_1280,c_limit/AZ%20Chike%20-%20No%20Rest%20for%20the%20Wicked.jpg" alt="No Rest for the Wicked cover"/>
 <img src="https://media.pitchfork.com/photos/6ab40a47a1e14fdca21ea8b8/16:9/w_1280,c_limit/AZ%20Chike%20-%20No%20Rest%20for%20the%20Wicked.jpg" alt="No Rest for the Wicked cover"/>]]></description>
-  </item>
-  <item>
-    <title>Slow Pulp – Melodie</title>
-    <link>https://pitchfork.com/reviews/albums/slow-pulp-melodie/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/slow-pulp-melodie/</guid>
-    <pubDate>Thu, 24 Sep 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a29c7544360aada47098162/16:9/w_1280,c_limit/unnamed%20(84).jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Midwest indie rock band returns with a new wave-influenced album that explores our innate desire to understand and be understood.</p>
-<img src="https://media.pitchfork.com/photos/6a29c7544360aada47098162/16:9/w_1280,c_limit/unnamed%20(84).jpg" alt="Melodie cover"/>
-<img src="https://media.pitchfork.com/photos/6a29c7544360aada47098162/16:9/w_1280,c_limit/unnamed%20(84).jpg" alt="Melodie cover"/>]]></description>
   </item>
   </channel>
 </rss>
