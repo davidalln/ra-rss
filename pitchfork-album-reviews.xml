@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 23:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 14:19:05 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Stevie Wonder – Songs in the Key of Life - The EP</title>
+    <link>https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/stevie-wonder-songs-in-the-key-of-life-the-ep/</guid>
+    <pubDate>Sat, 10 Oct 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6ac7f4da26778676bec2e141/16:9/w_1280,c_limit/Stevie%20Wonder%20Songs%20in%20the%20Key%20of%20Life%20The%20EP.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>A rare glimpse into the artist’s legendary and largely untapped vault of unreleased music presents four stunning outtakes from a hot streak that remains unparalleled in pop history.</p>
+<img src="https://media.pitchfork.com/photos/6ac7f4da26778676bec2e141/16:9/w_1280,c_limit/Stevie%20Wonder%20Songs%20in%20the%20Key%20of%20Life%20The%20EP.jpg" alt="Songs in the Key of Life - The EP cover"/>
+<img src="https://media.pitchfork.com/photos/6ac7f4da26778676bec2e141/16:9/w_1280,c_limit/Stevie%20Wonder%20Songs%20in%20the%20Key%20of%20Life%20The%20EP.jpg" alt="Songs in the Key of Life - The EP cover"/>]]></description>
+  </item>
   <item>
     <title>Cameron Winter – Live at Carnegie Hall</title>
     <link>https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Swedish pop singer’s sixth album mainly leans on a familiar, hedonistic electro-pop sound. Its best moments explore what happens when full-bodied pleasure meets a fearful mind.</p>
 <img src="https://media.pitchfork.com/photos/6abd2c90f479e560d71f0149/16:9/w_1280,c_limit/Tove%20Lo-ESTRUS.jpg" alt="ESTRUS cover"/>
 <img src="https://media.pitchfork.com/photos/6abd2c90f479e560d71f0149/16:9/w_1280,c_limit/Tove%20Lo-ESTRUS.jpg" alt="ESTRUS cover"/>]]></description>
-  </item>
-  <item>
-    <title>Toxe – Bubble Treasure</title>
-    <link>https://pitchfork.com/reviews/albums/toxe-bubble-treasure/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/toxe-bubble-treasure/</guid>
-    <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6abd3d06061d1e7ca3ebefa0/16:9/w_1280,c_limit/Toxe%20-%20Bubble%20Treasure.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Swedish singer-producer abandons club convention on her new album, opting instead for soft keys, chimes, and featherlight vocals, along with undulating arrangements teasing drops that never come.</p>
-<img src="https://media.pitchfork.com/photos/6abd3d06061d1e7ca3ebefa0/16:9/w_1280,c_limit/Toxe%20-%20Bubble%20Treasure.jpg" alt="Bubble Treasure cover"/>
-<img src="https://media.pitchfork.com/photos/6abd3d06061d1e7ca3ebefa0/16:9/w_1280,c_limit/Toxe%20-%20Bubble%20Treasure.jpg" alt="Bubble Treasure cover"/>]]></description>
   </item>
   </channel>
 </rss>
