@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 12:29:46 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Spacemen 3 – The Perfect Prescription</title>
+    <link>https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/spacemen-3-the-perfect-prescription/</guid>
+    <pubDate>Sun, 18 Oct 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6ad131e362c02f46ed1175c3/16:9/w_1280,c_limit/Spacemen%203%20-%20The%20Perfect%20Prescription%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we investigate J Spaceman and Sonic Boom’s 1987 psychedelic rock album, a mythically drugged-out method of divine transport.</p>
+<img src="https://media.pitchfork.com/photos/6ad131e362c02f46ed1175c3/16:9/w_1280,c_limit/Spacemen%203%20-%20The%20Perfect%20Prescription%20album%20art.jpg" alt="The Perfect Prescription cover"/>
+<img src="https://media.pitchfork.com/photos/6ad131e362c02f46ed1175c3/16:9/w_1280,c_limit/Spacemen%203%20-%20The%20Perfect%20Prescription%20album%20art.jpg" alt="The Perfect Prescription cover"/>]]></description>
+  </item>
   <item>
     <title>Djrum – DJ-Kicks</title>
     <link>https://pitchfork.com/reviews/albums/djrum-dj-kicks/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On their second album, the London-based producer and songwriter offers bold, hook-heavy club pop, but their lyrics about self-love and queer identity often land like platitudes.</p>
 <img src="https://media.pitchfork.com/photos/6ac51d09adf451e6bf74f1df/16:9/w_1280,c_limit/MNEK-BULLDOZER!!.jpg" alt="BULLDOZER!! cover"/>
 <img src="https://media.pitchfork.com/photos/6ac51d09adf451e6bf74f1df/16:9/w_1280,c_limit/MNEK-BULLDOZER!!.jpg" alt="BULLDOZER!! cover"/>]]></description>
-  </item>
-  <item>
-    <title>Lucy Bedroque – c</title>
-    <link>https://pitchfork.com/reviews/albums/lucy-bedroque-c/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/lucy-bedroque-c/</guid>
-    <pubDate>Thu, 08 Oct 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/16:9/w_1280,c_limit/Lucy%20Bedroque%20-%20c.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Like a cross between a fashionable rave and a final boss battle, the 20 year old’s latest album is both their sleekest and most overclocked, made more for mosh pits than headphone reveries.</p>
-<img src="https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/16:9/w_1280,c_limit/Lucy%20Bedroque%20-%20c.jpg" alt="c cover"/>
-<img src="https://media.pitchfork.com/photos/6ac541a55f04feffaad28ecc/16:9/w_1280,c_limit/Lucy%20Bedroque%20-%20c.jpg" alt="c cover"/>]]></description>
   </item>
   </channel>
 </rss>
