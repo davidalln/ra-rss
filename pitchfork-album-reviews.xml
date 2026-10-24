@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:56:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:29:41 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Amy Winehouse – Back to Black (20th Anniversary Edition)</title>
+    <link>https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/</guid>
+    <pubDate>Sat, 24 Oct 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6ada38d1f00eb0165f8135ae/16:9/w_1280,c_limit/Amy%20Winehouse%20-%20Back%20to%20Black%2020th%20anniversary%20edition%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Even with unreleased demos on the tracklist, there’s hardly anything to add to Amy Winehouse’s 2006 blockbuster, one of the all-time great breakup albums.</p>
+<img src="https://media.pitchfork.com/photos/6ada38d1f00eb0165f8135ae/16:9/w_1280,c_limit/Amy%20Winehouse%20-%20Back%20to%20Black%2020th%20anniversary%20edition%20album%20art.jpg" alt="Back to Black (20th Anniversary Edition) cover"/>
+<img src="https://media.pitchfork.com/photos/6ada38d1f00eb0165f8135ae/16:9/w_1280,c_limit/Amy%20Winehouse%20-%20Back%20to%20Black%2020th%20anniversary%20edition%20album%20art.jpg" alt="Back to Black (20th Anniversary Edition) cover"/>]]></description>
+  </item>
   <item>
     <title>Fine – Jazz dreams</title>
     <link>https://pitchfork.com/reviews/albums/fine-jazz-dreams/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On his latest release, the prolific Harlem rapper burrows deep into the minutiae of his memories, pairing thrilling, detailed vignettes with ominous beats.</p>
 <img src="https://media.pitchfork.com/photos/6acf9c095d9dcf13afc8d0e4/16:9/w_1280,c_limit/Errol%20Holden-SUPREME%20MAGNETIC%203.jpg" alt="SUPREME MAGNETIC 3 cover"/>
 <img src="https://media.pitchfork.com/photos/6acf9c095d9dcf13afc8d0e4/16:9/w_1280,c_limit/Errol%20Holden-SUPREME%20MAGNETIC%203.jpg" alt="SUPREME MAGNETIC 3 cover"/>]]></description>
-  </item>
-  <item>
-    <title>Oren Ambarchi – Cooked</title>
-    <link>https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/oren-ambarchi-cooked/</guid>
-    <pubDate>Thu, 15 Oct 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6acf970d75d631e933dbaa2a/16:9/w_1280,c_limit/Oren%20Ambarchi%20-%20Cooked.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Building an international band that includes Eiko Ishibashi, Jim O’Rourke, and a whistler, the Australian guitarist shapes longform spells of emotional and musical ambiguity.</p>
-<img src="https://media.pitchfork.com/photos/6acf970d75d631e933dbaa2a/16:9/w_1280,c_limit/Oren%20Ambarchi%20-%20Cooked.jpg" alt="Cooked cover"/>
-<img src="https://media.pitchfork.com/photos/6acf970d75d631e933dbaa2a/16:9/w_1280,c_limit/Oren%20Ambarchi%20-%20Cooked.jpg" alt="Cooked cover"/>]]></description>
   </item>
   </channel>
 </rss>
