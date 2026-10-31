@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 23:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:22:59 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Aphex Twin – Drukqs (25th Anniversary Edition)</title>
+    <link>https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/</guid>
+    <pubDate>Sat, 31 Oct 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6ae377d7efb3062cf478c6cd/16:9/w_1280,c_limit/Aphex%20Twin%20-%20Drukqs%202026.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Richard D. James’ once divisive 2001 album today looks, with 25 years of hindsight, like the keystone of his career, joining rave mischief and academic rigor in a sprawling, 100-minute package.</p>
+<img src="https://media.pitchfork.com/photos/6ae377d7efb3062cf478c6cd/16:9/w_1280,c_limit/Aphex%20Twin%20-%20Drukqs%202026.jpg" alt="Drukqs (25th Anniversary Edition) cover"/>
+<img src="https://media.pitchfork.com/photos/6ae377d7efb3062cf478c6cd/16:9/w_1280,c_limit/Aphex%20Twin%20-%20Drukqs%202026.jpg" alt="Drukqs (25th Anniversary Edition) cover"/>]]></description>
+  </item>
   <item>
     <title>DIIV – ZIRP!</title>
     <link>https://pitchfork.com/reviews/albums/diiv-zirp/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Swedish polymath explores the sounds, language, and imagery of Americana on a drolly observational singer-songwriter album.</p>
 <img src="https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/16:9/w_1280,c_limit/Baba%20Stiltz%20Totally.jpg" alt="Totally cover"/>
 <img src="https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/16:9/w_1280,c_limit/Baba%20Stiltz%20Totally.jpg" alt="Totally cover"/>]]></description>
-  </item>
-  <item>
-    <title>Dummy – do you love the color of the sky?</title>
-    <link>https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/dummy-do-you-love-the-color-of-the-sky/</guid>
-    <pubDate>Thu, 22 Oct 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a7dd69bca14a077a056d363/16:9/w_1280,c_limit/unnamed%20-%202026-08-13T103639.912.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Los Angeles band dials up the hazy distortion and synthetic sheen surrounding its spacey blend of shoegaze guitars and breakbeats.</p>
-<img src="https://media.pitchfork.com/photos/6a7dd69bca14a077a056d363/16:9/w_1280,c_limit/unnamed%20-%202026-08-13T103639.912.jpg" alt="do you love the color of the sky? cover"/>
-<img src="https://media.pitchfork.com/photos/6a7dd69bca14a077a056d363/16:9/w_1280,c_limit/unnamed%20-%202026-08-13T103639.912.jpg" alt="do you love the color of the sky? cover"/>]]></description>
   </item>
   </channel>
 </rss>
