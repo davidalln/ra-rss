@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:48:59 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Various Artists – Katamari Fortissimo Damacy</title>
+    <link>https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/various-artists-katamari-fortissimo-damacy/</guid>
+    <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6ae36f01c138238a931e34e7/16:9/w_1280,c_limit/Various%20-%20Katamari%20Fortissimo%20Damacy%20(original).jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we reconnect with a 2004 cult-classic game whose postmodernist soundtrack doubles as a treatise on the meaning of life.</p>
+<img src="https://media.pitchfork.com/photos/6ae36f01c138238a931e34e7/16:9/w_1280,c_limit/Various%20-%20Katamari%20Fortissimo%20Damacy%20(original).jpg" alt="Katamari Fortissimo Damacy cover"/>
+<img src="https://media.pitchfork.com/photos/6ae36f01c138238a931e34e7/16:9/w_1280,c_limit/Various%20-%20Katamari%20Fortissimo%20Damacy%20(original).jpg" alt="Katamari Fortissimo Damacy cover"/>]]></description>
+  </item>
   <item>
     <title>Aphex Twin – Drukqs (25th Anniversary Edition)</title>
     <link>https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On his first album in eight years, the Canadian DJ and producer reconnects with the guitar music of his youth, drawing on punk, emo, and shoegaze for an album that plays like a handmade mixtape.</p>
 <img src="https://media.pitchfork.com/photos/6a7b8a52050964276156a80d/16:9/w_1280,c_limit/Numbskull%20album%20art_credit_CoreySchmitz.jpg" alt="Numbskull cover"/>
 <img src="https://media.pitchfork.com/photos/6a7b8a52050964276156a80d/16:9/w_1280,c_limit/Numbskull%20album%20art_credit_CoreySchmitz.jpg" alt="Numbskull cover"/>]]></description>
-  </item>
-  <item>
-    <title>Baba Stiltz – Totally</title>
-    <link>https://pitchfork.com/reviews/albums/baba-stiltz-totally/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/baba-stiltz-totally/</guid>
-    <pubDate>Thu, 22 Oct 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/16:9/w_1280,c_limit/Baba%20Stiltz%20Totally.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Swedish polymath explores the sounds, language, and imagery of Americana on a drolly observational singer-songwriter album.</p>
-<img src="https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/16:9/w_1280,c_limit/Baba%20Stiltz%20Totally.jpg" alt="Totally cover"/>
-<img src="https://media.pitchfork.com/photos/6ad8e9e813dcf53c610da82c/16:9/w_1280,c_limit/Baba%20Stiltz%20Totally.jpg" alt="Totally cover"/>]]></description>
   </item>
   </channel>
 </rss>
