@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 23:59:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:45:06 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Bob Dylan – The Rolling Thunder Revue: The 1976 Live Recordings</title>
+    <link>https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/</guid>
+    <pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6aedeca0c1e973346d7a4d75/16:9/w_1280,c_limit/Bob%20Dylan%20-%20The%20Rolling%20Thunder%20Review%20.jpeg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>For half a century, the spring 1976 leg of the Rolling Thunder Revue was overshadowed by the mayhem of the year before. An electrifying 39-disc box set corrects the record.</p>
+<img src="https://media.pitchfork.com/photos/6aedeca0c1e973346d7a4d75/16:9/w_1280,c_limit/Bob%20Dylan%20-%20The%20Rolling%20Thunder%20Review%20.jpeg" alt="The Rolling Thunder Revue: The 1976 Live Recordings cover"/>
+<img src="https://media.pitchfork.com/photos/6aedeca0c1e973346d7a4d75/16:9/w_1280,c_limit/Bob%20Dylan%20-%20The%20Rolling%20Thunder%20Review%20.jpeg" alt="The Rolling Thunder Revue: The 1976 Live Recordings cover"/>]]></description>
+  </item>
   <item>
     <title>untitled (halo) – untitled (halo)</title>
     <link>https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>Anderson .Paak and Cordae kick back over a suite of boom-bap and trap-adjacent slappers on their lopsided but entertaining collaborative album.</p>
 <img src="https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/16:9/w_1280,c_limit/Anderson-Paak-Heavy-Is-the-Crown.jpeg" alt="Heavy Is the Crown cover"/>
 <img src="https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/16:9/w_1280,c_limit/Anderson-Paak-Heavy-Is-the-Crown.jpeg" alt="Heavy Is the Crown cover"/>]]></description>
-  </item>
-  <item>
-    <title>Water Damage – Repair</title>
-    <link>https://pitchfork.com/reviews/albums/water-damage-repair/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/water-damage-repair/</guid>
-    <pubDate>Thu, 29 Oct 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6ae21b827b487fd17701118a/16:9/w_1280,c_limit/Water%20Damage-Repair.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Austin ensemble makes minimalism feel enveloping and unruly on its latest record, where new melodic details are always emerging from a swarming mass of sound.</p>
-<img src="https://media.pitchfork.com/photos/6ae21b827b487fd17701118a/16:9/w_1280,c_limit/Water%20Damage-Repair.jpg" alt="Repair cover"/>
-<img src="https://media.pitchfork.com/photos/6ae21b827b487fd17701118a/16:9/w_1280,c_limit/Water%20Damage-Repair.jpg" alt="Repair cover"/>]]></description>
   </item>
   </channel>
 </rss>
