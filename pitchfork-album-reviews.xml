@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 23:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:51:07 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Donald Fagen – The Nightfly</title>
+    <link>https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/</guid>
+    <pubDate>Sun, 08 Nov 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6aee25d6d19586adfe8e3537/16:9/w_1280,c_limit/Donald%20Fagen%20-%20The%20Nightfly%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Tonight, we join Steely Dan’s Donald Fagen under cover as an after-hours radio DJ, bringing studio perfection to the music of his adolescent dreams.</p>
+<img src="https://media.pitchfork.com/photos/6aee25d6d19586adfe8e3537/16:9/w_1280,c_limit/Donald%20Fagen%20-%20The%20Nightfly%20album%20art.jpg" alt="The Nightfly cover"/>
+<img src="https://media.pitchfork.com/photos/6aee25d6d19586adfe8e3537/16:9/w_1280,c_limit/Donald%20Fagen%20-%20The%20Nightfly%20album%20art.jpg" alt="The Nightfly cover"/>]]></description>
+  </item>
   <item>
     <title>Bob Dylan – The Rolling Thunder Revue: The 1976 Live Recordings</title>
     <link>https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>The Ohio artist’s first album in four years is paranoid, indulgent, and theatrical, unfolding like a dark romantasy novel.</p>
 <img src="https://media.pitchfork.com/photos/6ad913bf0c92ad66cf11be07/16:9/w_1280,c_limit/3000x3000bb-100%20(2).jpg" alt="marroW cover"/>
 <img src="https://media.pitchfork.com/photos/6ad913bf0c92ad66cf11be07/16:9/w_1280,c_limit/3000x3000bb-100%20(2).jpg" alt="marroW cover"/>]]></description>
-  </item>
-  <item>
-    <title>Anderson .Paak / Cordae – Heavy Is the Crown</title>
-    <link>https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/</guid>
-    <pubDate>Thu, 29 Oct 2026 04:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/16:9/w_1280,c_limit/Anderson-Paak-Heavy-Is-the-Crown.jpeg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Anderson .Paak and Cordae kick back over a suite of boom-bap and trap-adjacent slappers on their lopsided but entertaining collaborative album.</p>
-<img src="https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/16:9/w_1280,c_limit/Anderson-Paak-Heavy-Is-the-Crown.jpeg" alt="Heavy Is the Crown cover"/>
-<img src="https://media.pitchfork.com/photos/6a85bffccf56144a2fd11199/16:9/w_1280,c_limit/Anderson-Paak-Heavy-Is-the-Crown.jpeg" alt="Heavy Is the Crown cover"/>]]></description>
   </item>
   </channel>
 </rss>
