@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:51:41 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Hiroshi Yoshimura – Quiet Forest</title>
+    <link>https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/</guid>
+    <pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/16:9/w_1280,c_limit/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.</p>
+<img src="https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/16:9/w_1280,c_limit/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg" alt="Quiet Forest cover"/>
+<img src="https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/16:9/w_1280,c_limit/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg" alt="Quiet Forest cover"/>]]></description>
+  </item>
   <item>
     <title>Armand Hammer – Snakes &amp; Ladders</title>
     <link>https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>So post-ironic it’s deadass, the Toronto songwriter’s debut renders a thoroughly modern affect with rare authenticity.</p>
 <img src="https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/16:9/w_1280,c_limit/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg" alt="Southern Ontario Gothic cover"/>
 <img src="https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/16:9/w_1280,c_limit/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg" alt="Southern Ontario Gothic cover"/>]]></description>
-  </item>
-  <item>
-    <title>John Errol – Damage</title>
-    <link>https://pitchfork.com/reviews/albums/john-errol-damage/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/john-errol-damage/</guid>
-    <pubDate>Thu, 05 Nov 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6aeb5ef792285c714cb83d91/16:9/w_1280,c_limit/John%20Errol%20-%20Damage%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Too challenging to qualify as radio rock, the Los Angeles songwriter’s cloudy, lo-fi grunge is stuffed with ’90s references and opaque secrets.</p>
-<img src="https://media.pitchfork.com/photos/6aeb5ef792285c714cb83d91/16:9/w_1280,c_limit/John%20Errol%20-%20Damage%20album%20art.jpg" alt="Damage cover"/>
-<img src="https://media.pitchfork.com/photos/6aeb5ef792285c714cb83d91/16:9/w_1280,c_limit/John%20Errol%20-%20Damage%20album%20art.jpg" alt="Damage cover"/>]]></description>
   </item>
   </channel>
 </rss>
