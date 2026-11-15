@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 23:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:27:34 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Pearl Jam – Yield</title>
+    <link>https://pitchfork.com/reviews/albums/pearl-jam-yield/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/pearl-jam-yield/</guid>
+    <pubDate>Sun, 15 Nov 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures.</p>
+<img src="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" alt="Yield cover"/>
+<img src="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" alt="Yield cover"/>]]></description>
+  </item>
   <item>
     <title>Hiroshi Yoshimura – Quiet Forest</title>
     <link>https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On its first live album, the New York trio recasts a quarter-century of rock songs for strings, piano, and acoustic guitar, highlighting the ache and vulnerability at the heart of its music.</p>
 <img src="https://media.pitchfork.com/photos/6aeb86b471a068f3a6c90517/16:9/w_1280,c_limit/Yeah%20Yeah%20Yeahs-Hidden%20in%20Pieces%20Live%20at%20the%20Royal%20Albert%20Hall.jpg" alt="Hidden in Pieces: Live at the Royal Albert Hall cover"/>
 <img src="https://media.pitchfork.com/photos/6aeb86b471a068f3a6c90517/16:9/w_1280,c_limit/Yeah%20Yeah%20Yeahs-Hidden%20in%20Pieces%20Live%20at%20the%20Royal%20Albert%20Hall.jpg" alt="Hidden in Pieces: Live at the Royal Albert Hall cover"/>]]></description>
-  </item>
-  <item>
-    <title>Brat Star – Southern Ontario Gothic</title>
-    <link>https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/brat-star-southern-ontario-gothic/</guid>
-    <pubDate>Thu, 05 Nov 2026 05:01:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/16:9/w_1280,c_limit/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>So post-ironic it’s deadass, the Toronto songwriter’s debut renders a thoroughly modern affect with rare authenticity.</p>
-<img src="https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/16:9/w_1280,c_limit/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg" alt="Southern Ontario Gothic cover"/>
-<img src="https://media.pitchfork.com/photos/6aeb6043ffd893c2f7b9bf8c/16:9/w_1280,c_limit/Brat%20Star%20-%20Southern%20Ontario%20Gothic%20album%20art.jpg" alt="Southern Ontario Gothic cover"/>]]></description>
   </item>
   </channel>
 </rss>
