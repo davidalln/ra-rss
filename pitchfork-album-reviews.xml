@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 01:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:57:26 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>R.E.M. – Reveal (25th Anniversary Edition)</title>
+    <link>https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/rem-reveal-25th-anniversary-edition/</guid>
+    <pubDate>Sat, 21 Nov 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6aff6684624692a5bce87452/16:9/w_1280,c_limit/R.E.M.%20Reveal%20(25th%20Anniversary%20Edition).jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>The rock band’s sunny synth-pop pivot remains an undersung gem. On a new reissue, it also feels like a touchstone for the sound of indie-pop in the 21st century.</p>
+<img src="https://media.pitchfork.com/photos/6aff6684624692a5bce87452/16:9/w_1280,c_limit/R.E.M.%20Reveal%20(25th%20Anniversary%20Edition).jpg" alt="Reveal (25th Anniversary Edition) cover"/>
+<img src="https://media.pitchfork.com/photos/6aff6684624692a5bce87452/16:9/w_1280,c_limit/R.E.M.%20Reveal%20(25th%20Anniversary%20Edition).jpg" alt="Reveal (25th Anniversary Edition) cover"/>]]></description>
+  </item>
   <item>
     <title>Kim Deal – Live at the Barbican</title>
     <link>https://pitchfork.com/reviews/albums/kim-deal-live-at-the-barbican/</link>
@@ -298,16 +308,6 @@
     <description><![CDATA[<p>On his fourth album, the Baltimore artist offers a work of devotion to both a particular romantic connection and the history of Black music, relayed through muted, experimental R&amp;B.</p>
 <img src="https://media.pitchfork.com/photos/6af4ad8bfaf63d904aab75b9/16:9/w_1280,c_limit/Dawuna-Love&#x27;s%20Arp.jpg" alt="Love’s Arp cover"/>
 <img src="https://media.pitchfork.com/photos/6af4ad8bfaf63d904aab75b9/16:9/w_1280,c_limit/Dawuna-Love&#x27;s%20Arp.jpg" alt="Love’s Arp cover"/>]]></description>
-  </item>
-  <item>
-    <title>Sun Araw – Rapid Response EP</title>
-    <link>https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sun-araw-rapid-response-ep/</guid>
-    <pubDate>Thu, 12 Nov 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6af4c3dceb628381272f78c9/16:9/w_1280,c_limit/Sun%20Araw%20Rapid%20Response%20EP.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>A heady new 12&quot; from the psychedelic artist continues his career-long journey into the dark outer reaches of new age.</p>
-<img src="https://media.pitchfork.com/photos/6af4c3dceb628381272f78c9/16:9/w_1280,c_limit/Sun%20Araw%20Rapid%20Response%20EP.jpg" alt="Rapid Response EP cover"/>
-<img src="https://media.pitchfork.com/photos/6af4c3dceb628381272f78c9/16:9/w_1280,c_limit/Sun%20Araw%20Rapid%20Response%20EP.jpg" alt="Rapid Response EP cover"/>]]></description>
   </item>
   </channel>
 </rss>
