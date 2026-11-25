@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 03:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:30:19 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Weird Baile – Collected Rips 2004-2024</title>
+    <link>https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/</guid>
+    <pubDate>Wed, 25 Nov 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6b04561aa18d23966dba0f50/16:9/w_1280,c_limit/Weird%20Baile%20-%20Collected%20Rips%202004-2024.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>Colombia’s TraTraTrax label gathers unreleased tracks from a shadowy internet collective that’s been making mischief on the fringes of the Brazilian funk scene for more than two decades.</p>
+<img src="https://media.pitchfork.com/photos/6b04561aa18d23966dba0f50/16:9/w_1280,c_limit/Weird%20Baile%20-%20Collected%20Rips%202004-2024.jpg" alt="Collected Rips 2004-2024 cover"/>
+<img src="https://media.pitchfork.com/photos/6b04561aa18d23966dba0f50/16:9/w_1280,c_limit/Weird%20Baile%20-%20Collected%20Rips%202004-2024.jpg" alt="Collected Rips 2004-2024 cover"/>]]></description>
+  </item>
   <item>
     <title>Emma Ogier – Fly 1111</title>
     <link>https://pitchfork.com/reviews/albums/emma-ogier-fly-1111/</link>
@@ -55,7 +65,7 @@
     <guid isPermaLink="true">https://pitchfork.com/reviews/albums/sheherazaad-khudgarzi/</guid>
     <pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
     <enclosure url="https://media.pitchfork.com/photos/6b005ab1e17d93d83598572b/16:9/w_1280,c_limit/Sheherazaad%20-%20Khudgarzi.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>The Brooklyn and Delhi-based singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means.</p>
+    <description><![CDATA[<p>The singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means.</p>
 <img src="https://media.pitchfork.com/photos/6b005ab1e17d93d83598572b/16:9/w_1280,c_limit/Sheherazaad%20-%20Khudgarzi.jpg" alt="Khudgarzi cover"/>
 <img src="https://media.pitchfork.com/photos/6b005ab1e17d93d83598572b/16:9/w_1280,c_limit/Sheherazaad%20-%20Khudgarzi.jpg" alt="Khudgarzi cover"/>]]></description>
   </item>
@@ -288,16 +298,6 @@
     <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures.</p>
 <img src="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" alt="Yield cover"/>
 <img src="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" alt="Yield cover"/>]]></description>
-  </item>
-  <item>
-    <title>Hiroshi Yoshimura – Quiet Forest</title>
-    <link>https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/</guid>
-    <pubDate>Sat, 14 Nov 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/16:9/w_1280,c_limit/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.</p>
-<img src="https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/16:9/w_1280,c_limit/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg" alt="Quiet Forest cover"/>
-<img src="https://media.pitchfork.com/photos/6af7365f3b980032c8f00492/16:9/w_1280,c_limit/Hiroshi%20Yoshimura%20-%20Quiet%20Forest.jpg" alt="Quiet Forest cover"/>]]></description>
   </item>
   </channel>
 </rss>
