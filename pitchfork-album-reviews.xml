@@ -5,10 +5,20 @@
     <link>https://pitchfork.com/reviews/albums/</link>
     <description>Pitchfork album reviews with artist, album art, and description</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:41:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:55:06 GMT</lastBuildDate>
     <ttl>480</ttl>
     <atom:link href="https://pitchfork.com/reviews/albums/" rel="self" type="application/rss+xml"/>
     
+  <item>
+    <title>Liz Harris – Music for Two Films About Water</title>
+    <link>https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/</link>
+    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/</guid>
+    <pubDate>Fri, 27 Nov 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://media.pitchfork.com/photos/6b04abcdef0d5f3b21696f7c/16:9/w_1280,c_limit/Liz%20Harris%20-%20Music%20for%20Two%20Films%20About%20Water%20album%20art.jpg" type="image/jpeg" length="0"/>
+    <description><![CDATA[<p>On her first release under her own name, Liz Harris immerses us in the the ambient side of Grouper with two long-form instrumental compositions.</p>
+<img src="https://media.pitchfork.com/photos/6b04abcdef0d5f3b21696f7c/16:9/w_1280,c_limit/Liz%20Harris%20-%20Music%20for%20Two%20Films%20About%20Water%20album%20art.jpg" alt="Music for Two Films About Water cover"/>
+<img src="https://media.pitchfork.com/photos/6b04abcdef0d5f3b21696f7c/16:9/w_1280,c_limit/Liz%20Harris%20-%20Music%20for%20Two%20Films%20About%20Water%20album%20art.jpg" alt="Music for Two Films About Water cover"/>]]></description>
+  </item>
   <item>
     <title>Weird Baile – Collected Rips 2004-2024</title>
     <link>https://pitchfork.com/reviews/albums/weird-baile-collected-rips-2004-2024/</link>
@@ -288,16 +298,6 @@
     <description><![CDATA[<p>The Lancashire rapper’s debut album is a noise-rap juggernaut of overwhelming bass and anguished bloodletting, the fullest expression yet of his theatrical sensibility.</p>
 <img src="https://media.pitchfork.com/photos/6af72a073b980032c8f00453/16:9/w_1280,c_limit/Blackhaine%20-%20Saints%20in%20the%20Wethous.jpg" alt="Saints in the Wethouse cover"/>
 <img src="https://media.pitchfork.com/photos/6af72a073b980032c8f00453/16:9/w_1280,c_limit/Blackhaine%20-%20Saints%20in%20the%20Wethous.jpg" alt="Saints in the Wethouse cover"/>]]></description>
-  </item>
-  <item>
-    <title>Pearl Jam – Yield</title>
-    <link>https://pitchfork.com/reviews/albums/pearl-jam-yield/</link>
-    <guid isPermaLink="true">https://pitchfork.com/reviews/albums/pearl-jam-yield/</guid>
-    <pubDate>Sun, 15 Nov 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" type="image/jpeg" length="0"/>
-    <description><![CDATA[<p>Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures.</p>
-<img src="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" alt="Yield cover"/>
-<img src="https://media.pitchfork.com/photos/6af74d56badf0bc3a76e3b90/16:9/w_1280,c_limit/Pearl%20Jam%20-%20Yield%20album%20art.jpg" alt="Yield cover"/>]]></description>
   </item>
   </channel>
 </rss>
